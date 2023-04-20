@@ -1,0 +1,950 @@
+[
+    {
+        "name": "Life Processes",
+        "index": 0,
+        "link": "https://i.ytimg.com/vi/IMSGFU-jXxA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAPomXpVIdytI0fVdKE1abpGQPq-w",
+        "desc": "Life Processes L-1 | Introduction to Life Processes | CBSE Class 10 Biology/Science Ch 6 | Vedantu"
+    },
+    {
+        "name": "Life Processes",
+        "index": 1,
+        "link": "https://i.ytimg.com/vi/U-cJBtwFIi4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLApW1VgB1r2pHbqFeOZeRPqPXrB-g",
+        "desc": "Life Processes L-2 | Nutrition in Unicellular Organisms and Human Digestive System | CBSE 10 Biology"
+    },
+    {
+        "name": "Life Processes",
+        "index": 2,
+        "link": "https://i.ytimg.com/vi/8qNN88huAz0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDhVfkrLI_1MWfITHBjijv_V1yxYQ",
+        "desc": "Life Process L-3 | Digestion in Human- Mouth, Stomach | CBSE Class 10 Biology Chapter 6 | Vedantu"
+    },
+    {
+        "name": "Life Processes",
+        "index": 3,
+        "link": "https://i.ytimg.com/vi/ZBd-7sV5RrY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDaGFyV6lj8pmdgyNcpO9HAVEHsEQ",
+        "desc": "Life Process L-4 | Digestion in Human - Liver,Pancreas & Intestine | CBSE Class 10 Biology Chapter 6"
+    },
+    {
+        "name": "Life Processes",
+        "index": 4,
+        "link": "https://i.ytimg.com/vi/gVShn8ftjSE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCp8ENaYFOC2XeUUpypA3k2DOEXww",
+        "desc": "Life Process L-5 | Respiration: Aerobic and Anaerobic | CBSE Class 10 Biology Chapter 6 | Amrit Sir"
+    },
+    {
+        "name": "Life Processes",
+        "index": 5,
+        "link": "https://i.ytimg.com/vi/9DyYBy7v9e0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAf1STqRp9BYXTPrPQmxkXIMsBoQA",
+        "desc": "Life Process - 6 | Human Respiratory System & Mechanism of Breathing | CBSE Class 10 2022-23"
+    },
+    {
+        "name": "Life Processes",
+        "index": 6,
+        "link": "https://i.ytimg.com/vi/z8nJfkAmVYU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCmVbGyChxCZVWkA5iQOIgs0n9o6w",
+        "desc": "Life Process - 7 | Human Circulatory System & Its Components | CBSE Class 10 2022-23 | Amrit Sir"
+    },
+    {
+        "name": "Life Processes",
+        "index": 7,
+        "link": "https://i.ytimg.com/vi/tC5Brgm1blM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB9_KYfAvFZ-UTqUPM0kciihMx7LA",
+        "desc": "Life Process - 8 | Double Circulation | CBSE Class 10 2022-23 | Amrit Sir"
+    },
+    {
+        "name": "Life Processes",
+        "index": 8,
+        "link": "https://i.ytimg.com/vi/KxyVY9iFl7Y/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB_3bA2_9-KXL_UTa7ErZiVdopSIQ",
+        "desc": "Life Process - 9 | Lymphatic System and Transportation in Plants | CBSE Class 10 2022-23 | Amrit Sir"
+    },
+    {
+        "name": "Life Processes",
+        "index": 9,
+        "link": "https://i.ytimg.com/vi/Vu3er6MvFqo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA46f_CAsdRrkYLa0V7ht1K97TpZA",
+        "desc": "10 Most Important Questions of Transportation - Life Process | CBSE Class 10 2022 | Amrit Sir"
+    },
+    {
+        "name": "Life Processes",
+        "index": 10,
+        "link": "https://i.ytimg.com/vi/SJJvRt9sm9A/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDFf9cUOx3uCdS94zo-mVVmMRyYTg",
+        "desc": "10 Most Important Questions of Respiration - Life Process | CBSE Class 10 2022 | Amrit Sir"
+    },
+    {
+        "name": "Life Processes",
+        "index": 11,
+        "link": "https://i.ytimg.com/vi/X220167hc_M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBDgR5t6GqGUdAP6raQbXlhgmWkig",
+        "desc": "10 Most Important Questions of Nutrition - Life Process | CBSE Class 10 2022 | Amrit Sir"
+    },
+    {
+        "name": "Life Processes",
+        "index": 12,
+        "link": "https://i.ytimg.com/vi/31V5GrFC1hw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBDuto3JvTb5fxw5Jpa_z9_anjfug",
+        "desc": "Class 10 Biology Marks Distribution | Syllabus & Most Important Topics | CBSE 2023 @VedantuClass 9 & 10"
+    },
+    {
+        "name": "Control and Coordination",
+        "index": 0,
+        "link": "https://i.ytimg.com/vi/PXUg1VByG4E/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDTCbuMe7_EIbngDcsUd8fHTId6Mw",
+        "desc": "Control and Coordination - 1 | Class 10 Biology/Science Chapter 7 | Board Exam | Mid-Terms | Vedantu"
+    },
+    {
+        "name": "Control and Coordination",
+        "index": 1,
+        "link": "https://i.ytimg.com/vi/51Eq4Y42q3E/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDjY7JGCot1cmlsOpjZlKzbUwegyw",
+        "desc": "Control & Coordination - 2 | Class 10 Biology | Science Chapter 7 | CBSE Concepts & NCERT Questions"
+    },
+    {
+        "name": "Control and Coordination",
+        "index": 2,
+        "link": "https://i.ytimg.com/vi/CyFASVLmbwA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBt1PPll4gXq9ninynbxjy1fc2JVA",
+        "desc": "Control & Coordination - 3 | Class 10 Biology | Science Chapter 7 | CBSE Concepts & NCERT Questions"
+    },
+    {
+        "name": "Control and Coordination",
+        "index": 3,
+        "link": "https://i.ytimg.com/vi/2Co_2lZXPBk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDh8P_HKadd9CVBXsJJKokr1s7d-Q",
+        "desc": "How to Revise Control and Coordination For EXAMS L-2 | CBSE Class 10 (Biology) Chapter 7 | 2019"
+    },
+    {
+        "name": "Control and Coordination",
+        "index": 4,
+        "link": "https://i.ytimg.com/vi/_MYWod2v-y8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCKasice4_oSECtYwT-vEW0r8jcig",
+        "desc": "Control and Coordination | CBSE Class 10 Science (Biology) Chapter 7 | Board Exam | Sprint X - 2"
+    },
+    {
+        "name": "Control and Coordination",
+        "index": 5,
+        "link": "https://i.ytimg.com/vi/BAyd_toV1Ys/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCSKxkscPhRS7vuEIGZKi1rkCQzDw",
+        "desc": "Control and Coordination & How Do Organisms Reproduce | CBSE Class 10 Biology Doubt Solving Vedantu"
+    },
+    {
+        "name": "Control and Coordination",
+        "index": 6,
+        "link": "https://i.ytimg.com/vi/LDahzJ9QjoY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC1Atxl6gwtqYGI1wJ2vj2jA9M9CQ",
+        "desc": "Control & Coordination Class10th CBSE Biology One Shot Revision Sprint X Amrit Sir @VedantuClass 9 & 10"
+    },
+    {
+        "name": "How do Organisms Reproduce",
+        "index": 0,
+        "link": "https://i.ytimg.com/vi/LqyA-T7IiU8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDt7RXkUXXux928wLrMR0mui1wdMA",
+        "desc": "How Do Organisms Reproduce? L-1[Basics of Reproduction] CBSE Class 10 Biology Chapter 8 | Term 2"
+    },
+    {
+        "name": "How do Organisms Reproduce",
+        "index": 1,
+        "link": "https://i.ytimg.com/vi/aKOZtk73OkI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDB1rh9-i1eFRCRJQNMYiylFdlnow",
+        "desc": "How Do Organisms Reproduce? L-2[Asexual Reproduction in Animals] CBSE Class 10 Biology Ch 8 | Term 2"
+    },
+    {
+        "name": "How do Organisms Reproduce",
+        "index": 2,
+        "link": "https://i.ytimg.com/vi/MbYmvLCqnnk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAU2BEfIJ4MAEbzNBtKsYITTBmBcw",
+        "desc": "How Do Organisms Reproduce? L-3[Asexual Reproduction in Plants] CBSE Class 10 Biology Ch 8 | Term 2"
+    },
+    {
+        "name": "How do Organisms Reproduce",
+        "index": 3,
+        "link": "https://i.ytimg.com/vi/TkrpnluyJ0A/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCPqSpVBj3Dbtt7fMHZDMN0ujGLXw",
+        "desc": "How Do Organisms Reproduce? L-4 [Sexual Reproduction in Plants] CBSE Class 10 Biology Ch 8 | Term 2"
+    },
+    {
+        "name": "How do Organisms Reproduce",
+        "index": 4,
+        "link": "https://i.ytimg.com/vi/VVy7S4kk168/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDNkfyvDJnbdbu6KPUlPj129GqjgA",
+        "desc": "How Do Organisms Reproduce? L-5 | Sexual Reproduction in Human Being | CBSE Class10 Biology | Term2"
+    },
+    {
+        "name": "How do Organisms Reproduce",
+        "index": 5,
+        "link": "https://i.ytimg.com/vi/b-gjRLvo-Xw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDhRU2M5gu7zu5zn0AmjZ3GiL4fxg",
+        "desc": "How Do Organisms Reproduce L-6 | Menstrual Cycle & Reproductive Health | CBSE Class10 Biology -Term2\n"
+    },
+    {
+        "name": "How do Organisms Reproduce",
+        "index": 6,
+        "link": "https://i.ytimg.com/vi/mdDTIKLgMMg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCepvRWGL2S4gJGFfgLOqNaCrE9YA",
+        "desc": "How Do Organisms Reproduce? L-6 | Sexual Reproduction in Human Being[Female] | CBSE Class10 Biology"
+    },
+    {
+        "name": "Heredity and Evolution",
+        "index": 0,
+        "link": "https://i.ytimg.com/vi/NSgT01BPnoo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBMr-Thj6tvvreceyjpyGChexrhCQ",
+        "desc": "Heredity and Evolution L-1 ( Introduction to Heredity ) CBSE Class 10 Biology"
+    },
+    {
+        "name": "Heredity and Evolution",
+        "index": 1,
+        "link": "https://i.ytimg.com/vi/-YdTI4vcAhQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB0QQFezUcsHPkQGrO32QbwOsU1Mw",
+        "desc": "Heredity and Evolution [ Live Interaction + Doubt Solving ] CBSE Class 10 Biology Chapter 9 | Term 2"
+    },
+    {
+        "name": "Heredity and Evolution",
+        "index": 2,
+        "link": "https://i.ytimg.com/vi/PgEFTYhiWEk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDbW1PynYUQ6fBf-1sOKbtbToJnnA",
+        "desc": "Heredity and Evolution L-2 ( Mendel\u2019s Experiments Part-1 )CBSE Class 10 Biology Chapter 9 | Term 2"
+    },
+    {
+        "name": "Heredity and Evolution",
+        "index": 3,
+        "link": "https://i.ytimg.com/vi/JjKlMyzqIjk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBZ00pYrTHpKzI0aP3R4rY4TUm_jg",
+        "desc": "Heredity and Evolution L-6 | Sex Determination | CBSE Class 10 Biology Chapter 9 | Term 2 | Vedantu\n"
+    },
+    {
+        "name": "Heredity and Evolution",
+        "index": 4,
+        "link": "https://i.ytimg.com/vi/enlcaln3peU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCK2_mPt_96R-zTuOeqlTt193VZBw",
+        "desc": "Heredity and Evolution L-3 (Mendel\u2019s Experiments (Monohybrid Cross) Part-2) CBSE 10 Biology | Term 2"
+    },
+    {
+        "name": "Heredity and Evolution",
+        "index": 5,
+        "link": "https://i.ytimg.com/vi/muEFqjufkqM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD5-1dywlB3WmYTbt-dYih89J-X7w",
+        "desc": "Heredity and Evolution (Live Doubt Solving Session) CBSE Class 10 Biology Chap 9 | Term 2 | Vedantu"
+    },
+    {
+        "name": "Heredity and Evolution",
+        "index": 6,
+        "link": "https://i.ytimg.com/vi/u2dY73tCMI4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB7zarKMl9VphRpVgrMYoYbAuDUXQ",
+        "desc": "Heredity and Evolution L-4 [Mendel\u2019s Experiments Part-3 (Dihybrid Cross)]CBSE 10 Biology | Term 2"
+    },
+    {
+        "name": "Heredity and Evolution",
+        "index": 7,
+        "link": "https://i.ytimg.com/vi/wMMk6ZWx0S0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAGwbCqZgi7VMgLv1l8weCG9thoow",
+        "desc": "Heredity and Evolution L-5 | 3 Laws of Mendel | CBSE Class 10 Biology Chapter 9 | Term 2 | Vedantu\n"
+    },
+    {
+        "name": "Heredity and Evolution",
+        "index": 8,
+        "link": "https://i.ytimg.com/vi/mjNAw3P0BCo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDUOO_GBd5fIcyxlpFAimjhnhxX5g",
+        "desc": "How do Organisms Reproduce Class10th CBSE 2023 Biology One Shot Revision Sprint X @VedantuClass910\n"
+    },
+    {
+        "name": "Heredity and Evolution",
+        "index": 9,
+        "link": "https://i.ytimg.com/vi/MIo42aavCes/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC1qhuVhPHLx4AnWx9-kT-xIY7uvA",
+        "desc": "Heredity & Evolution Class 10th CBSE Biology One Shot Revision Sprint X Amrit Sir@VedantuClass910"
+    },
+    {
+        "name": "Heredity and Evolution",
+        "index": 10,
+        "link": "https://i.ytimg.com/vi/31V5GrFC1hw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBDuto3JvTb5fxw5Jpa_z9_anjfug",
+        "desc": "Class 10 Biology Marks Distribution | Syllabus & Most Important Topics | CBSE 2023 @VedantuClass910\n"
+    },
+    {
+        "name": "Heredity and Evolution",
+        "index": 11,
+        "link": "https://i.ytimg.com/vi/6r9AYELod7Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDZU3K0tEgAeO_wWwgyAF7gXjKxvQ",
+        "desc": "Live Session for Doubts and Motivation with Amrit Sir CBSE Class 10 Biology 2023 | Vedantu 9 and 10\n"
+    },
+    {
+        "name": "Our Environment",
+        "index": 0,
+        "link": "https://i.ytimg.com/vi/pWPtUHkbM2o/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD0nlP008Fr8_uPFg0cZNXIHVhOfA",
+        "desc": "Our Environment L-1 | NCERT Solutions - Pg 260 In-Text Questions (1, 2) | CBSE 10 Biology | Vedantu"
+    },
+    {
+        "name": "Our Environment",
+        "index": 1,
+        "link": "https://i.ytimg.com/vi/-_Qn7PN2xW0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDKrMIV_V3or7Mqc-17kbCHmGQi3Q",
+        "desc": "Our Environment L-2 | NCERT Solutions - Pg 262 In-Text Questions (1,2,3) | CBSE 10 Biology | Vedantu"
+    },
+    {
+        "name": "Our Environment",
+        "index": 2,
+        "link": "https://i.ytimg.com/vi/6GxjqyL1vRE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDSqQEvUmoewV3S3vC3ypDI3sSY4w",
+        "desc": "Our Environment L-3 | NCERT Solutions - Pg 264 In-Text Questions (1,2) | CBSE 10 Biology | Vedantu"
+    },
+    {
+        "name": "Our Environment",
+        "index": 3,
+        "link": "https://i.ytimg.com/vi/CGcPu_Eommo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAexH1ukrM_2zfjd2efsZVFm2c-SA",
+        "desc": "Our Environment L-4 | NCERT Solutions (Pg 264: Ex- 1,2], (Pg 265: Ex- 3) | CBSE 10 Biology | Vedantu\n"
+    },
+    {
+        "name": "Our Environment",
+        "index": 4,
+        "link": "https://i.ytimg.com/vi/LLpqLVWEZJo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB5lSt6_66c-epN5-s52QY_reh5ug",
+        "desc": "Our Environment L-5 | NCERT Solutions (Pg 265: In-Text - 4, 5) | CBSE Class 10 Biology | Vedantu\n"
+    },
+    {
+        "name": "Our Environment",
+        "index": 5,
+        "link": "https://i.ytimg.com/vi/dJRoL645bek/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC5Wo9TW7OSLwY6It05zm2dQkK4fQ",
+        "desc": "Our Environment L-6 | NCERT Solutions (Pg 265: In-Text - 6, 7) | CBSE Class 10 Biology | Vedantu\n"
+    },
+    {
+        "name": "Our Environment",
+        "index": 6,
+        "link": "https://i.ytimg.com/vi/7lDMQ6qt1Bg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBPKf3-f4FEXU9IOhdys2H00Bcnag",
+        "desc": "Our Environment L-7 | NCERT Solutions (Pg 264: In-Text - 8, 9) | CBSE Class 10 Biology | Vedantu"
+    },
+    {
+        "name": "Management of Natural Resources",
+        "index": 0,
+        "link": "https://i.ytimg.com/vi/1pf2bXn7FoU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB0ECFSnm5R4tH6DXfgg3X-H02UZQ",
+        "desc": "Management of Natural Resources | NTSE MCQ | Class 10 | Unacademy Foundation - Biology | Vindhya Rao"
+    },
+    {
+        "name": "Management of Natural Resources",
+        "index": 1,
+        "link": "https://i.ytimg.com/vi/Jqyg9zecHDg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAIRToXQI7OnN02XSK9xdP6u5rS2Q",
+        "desc": "Management of Natural Resource - Lecture 1 | Class 10 | Unacademy Foundation - Biology | Vindhya Rao"
+    },
+    {
+        "name": "Management of Natural Resources",
+        "index": 2,
+        "link": "https://i.ytimg.com/vi/HBxS5EmsetQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBxh05AnYoUkS5or1JNS37z6yY0Nw",
+        "desc": "Management of Natural Resource - Lecture 2 | Class 10 | Unacademy Foundation - Biology | Vindhya Rao"
+    },
+    {
+        "name": "Management of Natural Resources",
+        "index": 3,
+        "link": "https://i.ytimg.com/vi/s1cwL-MPQso/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDZ74DHlvK4jWc0whRRQMlqKbPXvQ",
+        "desc": "Management of Natural Resource - Lecture 3 | Class 10 | Unacademy Foundation - Biology | Vindhya Rao"
+    },
+    {
+        "name": "Management of Natural Resources",
+        "index": 4,
+        "link": "https://i.ytimg.com/vi/cx-GZg_fsxM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAL0FL7keq6y3FRzOGfs9zKdU6hMg",
+        "desc": "Management of Natural Resource - Lecture 4 | Class 10 | Unacademy Foundation - Biology | Vindhya Rao"
+    },
+    {
+        "name": "Management of Natural Resources",
+        "index": 5,
+        "link": "https://i.ytimg.com/vi/bqcCh9c1F6w/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBNzLCMnnbY4vxftn-5IF3kav_O7Q",
+        "desc": "Management of Natural Resource - Lecture 5 | Class 10 | Unacademy Foundation - Biology | Vindhya Rao"
+    },
+    {
+        "name": "Chemical Reactions and Equations",
+        "index": 0,
+        "link": "https://i.ytimg.com/vi/JAefmM2mHFk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAy5Rwx1_DlaRJBKVgupK-m0gBKvg",
+        "desc": "Chemical Reactions - Lecture 1 | Class 10 | Unacademy Foundation - Chemistry | Seema Rao"
+    },
+    {
+        "name": "Chemical Reactions and Equations",
+        "index": 1,
+        "link": "https://i.ytimg.com/vi/YSVyao_nCyw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDqDSOIdxoVjduv5FFJn1fw4zN7wg",
+        "desc": "Chemical Reactions - Lecture 2 | Class 10 | Unacademy Foundation - Chemistry | Seema Rao"
+    },
+    {
+        "name": "Chemical Reactions and Equations",
+        "index": 2,
+        "link": "https://i.ytimg.com/vi/XJMkPoYMW28/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAWMLO-Yl2Yec1N6S2O1Q9vFfAAWQ",
+        "desc": "Chemical Reactions - Lecture 3 | Class 10 | Unacademy Foundation - Chemistry | Seema Rao"
+    },
+    {
+        "name": "Chemical Reactions and Equations",
+        "index": 3,
+        "link": "https://i.ytimg.com/vi/EIEyyqV8O8g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB4Y7f71miqxGFE-DSSUQDlJ9aqVw",
+        "desc": "Chemical Reactions - Lecture 4 | Class 10 | Unacademy Foundation - Chemistry | Seema Rao"
+    },
+    {
+        "name": "Chemical Reactions and Equations",
+        "index": 4,
+        "link": "https://i.ytimg.com/vi/-BC0R3KcP_c/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLATBLbN2zkctVxFevw-kdCR2ajaXQ",
+        "desc": "Chemical Reactions - Lecture 5 | Class 10 | Unacademy Foundation - Chemistry | Seema Rao"
+    },
+    {
+        "name": "Chemical Reactions and Equations",
+        "index": 5,
+        "link": "https://i.ytimg.com/vi/dSfPQvLUuJE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBLN_rtBaR0qIAmSKrODI3hsdtJgw",
+        "desc": "Chemical Reactions - Lecture 6 | Class 10 | Unacademy Foundation - Chemistry | Seema Rao"
+    },
+    {
+        "name": "Chemical Reactions and Equations",
+        "index": 6,
+        "link": "https://i.ytimg.com/vi/JCqcpN_-XBY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD1M_eVpu4CqwrkeJlZyfc65Qv9Vg",
+        "desc": "Chemical Reactions | NTSE PYQs | Class 10 | Unacademy Foundation - Chemistry | Seema Rao"
+    },
+    {
+        "name": "Chemical Reactions and Equations",
+        "index": 7,
+        "link": "https://i.ytimg.com/vi/MFuf9P7VyqU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCeLxU29Ve6RJk1tH8fOlIiBZ47fA",
+        "desc": "Chemical Bonding - Lecture 1 | Class 10 | Unacademy Foundation - Chemistry | Seema Rao\n"
+    },
+    {
+        "name": "Chemical Reactions and Equations",
+        "index": 8,
+        "link": "https://i.ytimg.com/vi/jyoh0jM7Fws/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAnDmYVYhph4xZSGNK5zTwFt9GUMw",
+        "desc": "CBSE Class 10: Chemical Reactions and Equations - L 1 |Chemistry | Unacademy Class 9 & 10 |Seema Rao"
+    },
+    {
+        "name": "Chemical Reactions and Equations",
+        "index": 9,
+        "link": "https://i.ytimg.com/vi/DntqEOOuFJY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDPZlc_UHseaoBRKFxl2GSjAR5gDQ",
+        "desc": "CBSE Class 10: Chemical Reactions & Equations - L 2 | Chemistry | Unacademy Class 9 and 10 | Seema"
+    },
+    {
+        "name": "Chemical Reactions and Equations",
+        "index": 10,
+        "link": "https://i.ytimg.com/vi/J8icNpf31XE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDkIGbOfBNVpqaqZrnk1vhv5K-ZaQ",
+        "desc": "CBSE Class 10: Chemical Reactions & Equations - L 3 | Chemistry | Unacademy Class 9 and 10 | Seema"
+    },
+    {
+        "name": "Chemical Reactions and Equations",
+        "index": 11,
+        "link": "https://i.ytimg.com/vi/DK6VUwoCUHU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBPiGsEC-qbFZy2lu3veqc9KgpUvQ",
+        "desc": "CBSE Class 10: Chemical Reactions & Equations - L 5 | Chemistry | Unacademy Class 9 and 10 | Seema"
+    },
+    {
+        "name": "Chemical Reactions and Equations",
+        "index": 12,
+        "link": "https://i.ytimg.com/vi/b0zxrNJLk24/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBP5VgYPGFNJPEm-sm3nekSN-v89A",
+        "desc": "CBSE Class 10: Chemical Reactions & Equations - L 6 | Chemistry | Unacademy Class 9 and 10 | Seema"
+    },
+    {
+        "name": "Chemical Reactions and Equations",
+        "index": 13,
+        "link": "https://i.ytimg.com/vi/HJYjKQvNOkY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLASywqeZkgPZnPwZO4F_95Py-erBQ",
+        "desc": "CBSE Class 10: Chemical Reactions & Equations - L 7 | Chemistry | Unacademy Class 9 and 10 | Seema R"
+    },
+    {
+        "name": "Chemical Reactions and Equations",
+        "index": 14,
+        "link": "https://i.ytimg.com/vi/UOSw7HbDZJA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC8JZ2NuaPtyCbVAo9rBjT48JOwjg",
+        "desc": "CBSE Class 10: Chemical Reactions & Equations - L 8 | Chemistry | Unacademy Class 9 and 10 | Seema R"
+    },
+    {
+        "name": "Chemical Reactions and Equations",
+        "index": 15,
+        "link": "https://i.ytimg.com/vi/k8SkT_hReLE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDgLt2mA2L6IjHTTnyCWyEtwJdrMA",
+        "desc": "CBSE Class 10: Chemical Reactions & Equations - L 9 | Chemistry | Unacademy Class 9 and 10 | Seema R"
+    },
+    {
+        "name": "Chemical Reactions and Equations",
+        "index": 16,
+        "link": "https://i.ytimg.com/vi/TJ62ly2zy40/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD7AhLI_zTfOeR_exUk-w39OaEZzg",
+        "desc": "CBSE: Chemical Reactions & Equations | Redox Reaction | Unacademy Class 9 and 10 | Sweta Ma'am"
+    },
+    {
+        "name": "Chemical Reactions and Equations",
+        "index": 17,
+        "link": "https://i.ytimg.com/vi/lyr1hOG5ePs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBiD71ZhT9R-7EcLB00k0tmaolSag",
+        "desc": "CBSE Class 10: Chemical Reactions & Equations | Menti Quiz | Unacademy Class 9 and 10 | Sweta Ma'am"
+    },
+    {
+        "name": "Chemical Reactions and Equations",
+        "index": 18,
+        "link": "https://i.ytimg.com/vi/9iSicTrJzts/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAN9m8En72add0eun4wueBMPawPog",
+        "desc": "CBSE Class 10: Chemical Reactions and Equations - L 1 | Aagaz | Unacademy Class 9 & 10 | Divyasha S"
+    },
+    {
+        "name": "Chemical Reactions and Equations",
+        "index": 19,
+        "link": "https://i.ytimg.com/vi/QJClYV29Z30/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC-SibX7Xup6UNW0faMW0geYjei6A",
+        "desc": "CBSE Class 10: Chemical Reactions & Equations - L 3 | Aagaz | Unacademy Class 9 and 10 | Divyasha S"
+    },
+    {
+        "name": "Chemical Reactions and Equations",
+        "index": 20,
+        "link": "https://i.ytimg.com/vi/Jct47GheQBY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBqdKw2RyxLoxZ0_LApr0BWPhlBXQ",
+        "desc": "CBSE Class 10: Chemical Reactions & Equations - L 4 | Aagaz | Unacademy Class 9 and 10 | Divyasha S"
+    },
+    {
+        "name": "Chemical Reactions and Equations",
+        "index": 21,
+        "link": "https://i.ytimg.com/vi/I9i5tDSYXgI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC1yKPVPRuoap-i1G6s2rGR27iXQg",
+        "desc": "CBSE Class 10: Unacademy Quiz for Chemical Reactions & Equations | Aagaz | Unacademy Class 9 and 10"
+    },
+    {
+        "name": "Chemical Reactions and Equations",
+        "index": 22,
+        "link": "https://i.ytimg.com/vi/vxV8Hqz5X_0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC5e_zTIkIlWUnyXopzxKfL_ILd1w",
+        "desc": "Chemical Reactions and Equations Grand Live Quiz | CBSE Class 10 | Atharva Puranik"
+    },
+    {
+        "name": "Acids Bases and Salts",
+        "index": 0,
+        "link": "https://i.ytimg.com/vi/vqX6U3nNDfA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBGAW-LH-PHSU0A4LmBVybziEdbLw",
+        "desc": "Acids, Bases & Salts 01 | Classification of Acids | Arrhenius Concept | Class 10 | NCERT"
+    },
+    {
+        "name": "Acids Bases and Salts",
+        "index": 1,
+        "link": "https://i.ytimg.com/vi/-sMa9NjKzWg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA19gyK7sKi8dyDnXLPagwu_5uiRg",
+        "desc": "Acids, Bases & Salts 02 | Bases | Classification of Bases | Indicators | Class 10 | NCERT | Udaan"
+    },
+    {
+        "name": "Acids Bases and Salts",
+        "index": 2,
+        "link": "https://i.ytimg.com/vi/f1vz2k4fp7s/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDHlCN5OKnXgyOp8d23ZjgMi4nzQw",
+        "desc": "Acids, Bases & Salts 03 | Chemical Properties of Acids and Bases | Class 10 | NCERT | Udaan"
+    },
+    {
+        "name": "Acids Bases and Salts",
+        "index": 3,
+        "link": "https://i.ytimg.com/vi/Le7XHZacWDk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD_4R9XeDelOPu5CdHgRdejuhHaLA",
+        "desc": "Acids, Bases & Salts 04 | pH Scale | Universal Indicator | Role of pH in Daily Life | NCERT\n"
+    },
+    {
+        "name": "Acids Bases and Salts",
+        "index": 4,
+        "link": "https://i.ytimg.com/vi/wVs2b1bD2hA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBRzs0eAQNQBnCXaHlsGCWD_TpuXA",
+        "desc": "Acids, Bases & Salts 05 | pH | Salts | Compounds Derived from Common Salts | Class 10 | NCERT"
+    },
+    {
+        "name": "Acids Bases and Salts",
+        "index": 5,
+        "link": "https://i.ytimg.com/vi/mv_i3blkkR4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDJtgZLZs-FnV43CfWU0-aFQX7WTQ",
+        "desc": "Acids, Bases & Salts 07 | Power of Hydrogen | Problems | Class 10 | NCERT\n"
+    },
+    {
+        "name": "Metals and Non Metals",
+        "index": 0,
+        "link": "https://i.ytimg.com/vi/p5xTt8shltw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAX186ErG-sKZuyRvWdbxAH8rDLaw",
+        "desc": "Metal and Non Metals L1 | Physical Properties of Metals and Non Metals | CBSE Class 10 Chemistry"
+    },
+    {
+        "name": "Metals and Non Metals",
+        "index": 1,
+        "link": "https://i.ytimg.com/vi/py-L_cIiTJI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDpqovbag7wimyP9HbvfsiXlxaUog",
+        "desc": "Metal and Non Metals L2 | Chemical Properties of Metals | CBSE Class 10 Chemistry | Umang Vedantu"
+    },
+    {
+        "name": "Metals and Non Metals",
+        "index": 2,
+        "link": "https://i.ytimg.com/vi/SNfVgqGQtcw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDQZDdQcFmsNeWxPk1473nqgdWETg",
+        "desc": "Metal and Non Metals L3 | Reactivity Series | CBSE Class 10 Chemistry NCERT Solutions| Umang Vedantu"
+    },
+    {
+        "name": "Metals and Non Metals",
+        "index": 3,
+        "link": "https://i.ytimg.com/vi/9TvPjyApcjM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLASWE-4Q7338ks1yY79lXGpPl553Q",
+        "desc": "Metal and Non Metals L4 | Formation and Properties of Ionic Compounds| CBSE Class 10 Chemistry NCERT\n"
+    },
+    {
+        "name": "Metals and Non Metals",
+        "index": 4,
+        "link": "https://i.ytimg.com/vi/iU6raOg5fUs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDS6ifCI7APnxgcovclNIRRzoccJA",
+        "desc": "Metal and Non Metals L5 | Doubt & Menti Quiz | CBSE Class 10 Chemistry NCERT Solutions | Vedantu\n"
+    },
+    {
+        "name": "Metals and Non Metals",
+        "index": 5,
+        "link": "https://i.ytimg.com/vi/_ashNoxfZp4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB72tX6zf0Ret8bsUK1z9hBpS5_Qg",
+        "desc": "Maha Menti Quiz L1 | CBSE Class 10 Chemistry | Science NCERT Solutions | Vedantu Class 9 and 10\n"
+    },
+    {
+        "name": "Carbon and its Compounds",
+        "index": 0,
+        "link": "https://i.ytimg.com/vi/S1AZCVYHuGQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDYhKuF7aGc4ykvLvzMI7sa57zkkw",
+        "desc": "Carbon and its Compounds - Lecture 1 | Class 10 | Unacademy Foundation - Chemistry | Seema Rao\n"
+    },
+    {
+        "name": "Carbon and its Compounds",
+        "index": 1,
+        "link": "https://i.ytimg.com/vi/5qZ4AIXsEqo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCkGyE58dHzGRV6_rG_BVExJf0T1g",
+        "desc": "Carbon and its Compounds - Lecture 2 | Class 10 | Unacademy Foundation - Chemistry | Seema Rao\n"
+    },
+    {
+        "name": "Carbon and its Compounds",
+        "index": 2,
+        "link": "https://i.ytimg.com/vi/mXu7ZJSmN3k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB7wNEuWKnMdCkTsMH9edYbKqP57Q",
+        "desc": "Carbon and its Compounds - Lecture 3 | Class 10 | Unacademy Foundation - Chemistry | Seema Rao\n"
+    },
+    {
+        "name": "Carbon and its Compounds",
+        "index": 3,
+        "link": "https://i.ytimg.com/vi/cYcigWhc794/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBIYLdOPMb3uoYUJMeA8HOh5i8t2A",
+        "desc": "Carbon and its Compounds - Lecture 4 | Class 10 | Unacademy Foundation - Chemistry | Seema Rao\n"
+    },
+    {
+        "name": "Carbon and its Compounds",
+        "index": 4,
+        "link": "https://i.ytimg.com/vi/0wS-w7flUns/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBMUkhGSf38BBIlUyLyGOj3lDCKdQ",
+        "desc": "Carbon & its Compounds - Lecture 5 | Class 10 | Unacademy Foundation - Chemistry | Seema Rao"
+    },
+    {
+        "name": "Carbon and its Compounds",
+        "index": 5,
+        "link": "https://i.ytimg.com/vi/icF-pD-4QkI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD2GQMJEgQ53ItziOoWW_sjQBWmHw",
+        "desc": "Carbon & its Compounds - Lecture 6 | Class 10 | Unacademy Foundation - Chemistry | Seema Rao\n"
+    },
+    {
+        "name": "Carbon and its Compounds",
+        "index": 6,
+        "link": "https://i.ytimg.com/vi/IAvo21qthmU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCTAwmHNU92fOJU_ZRDXgt-ucCf7Q",
+        "desc": "Carbon & its Compounds - Lecture 7 | Class 10 | Unacademy Foundation - Chemistry | Seema Rao"
+    },
+    {
+        "name": "Carbon and its Compounds",
+        "index": 7,
+        "link": "https://i.ytimg.com/vi/WLgd1yszMuw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCEScyN7OaA5wb41rjZlGx0ztpNSg",
+        "desc": "Carbon & its Compounds - Lecture 8 | Class 10 | Unacademy Foundation - Chemistry | Seema Rao\n"
+    },
+    {
+        "name": "Carbon and its Compounds",
+        "index": 8,
+        "link": "https://i.ytimg.com/vi/kdm-Flbui3c/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCv_xm5dNvFKda8NYPThEGM6UO1dQ",
+        "desc": "Carbon & its Compounds - Lecture 9 | Class 10 | Unacademy Foundation - Chemistry | Seema Rao\n"
+    },
+    {
+        "name": "Carbon and its Compounds",
+        "index": 9,
+        "link": "https://i.ytimg.com/vi/FC7_N6W5nr4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCGIJ6-pam0xwwFvPSoBVINF1q8Bg",
+        "desc": "Carbon & its Compounds - Lecture 10 | Class 10 | Unacademy Foundation - Chemistry | Seema Rao\n"
+    },
+    {
+        "name": "Periodic Classification of Elements",
+        "index": 0,
+        "link": "https://i.ytimg.com/vi/pcwoIXjhKeE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCtkL_mVzn2lT69zyG1lztbRXLSAg",
+        "desc": "Periodic Classification Of Elements L-1 | Early Attempts of Classification of Elements | CBSE 10"
+    },
+    {
+        "name": "Periodic Classification of Elements",
+        "index": 1,
+        "link": "https://i.ytimg.com/vi/3fvW9j397-c/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLARwLSZiOV3jQQSPX9os665yWqKXg",
+        "desc": "Periodic Classification Of Elements L-2| Mendeleev's Periodic Classification |CBSE Class10 Chemistry"
+    },
+    {
+        "name": "Periodic Classification of Elements",
+        "index": 2,
+        "link": "https://i.ytimg.com/vi/3JbmBx-PF84/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLABJSCca75Nr18IIhp-qEKMZ0QArA",
+        "desc": "Periodic Classification Of elements L-3 | Modern Periodic Table | CBSE Class10 Chemistry Ch5 | Term2\n"
+    },
+    {
+        "name": "Periodic Classification of Elements",
+        "index": 3,
+        "link": "https://i.ytimg.com/vi/xTULenruoU8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA6ig0YoSwAztJGwsU0GS3vePg0Ng",
+        "desc": "Periodic Classification Of Elements L-4 | Periodic Properties & Trends 1 | CBSE 10 Chemistry | Term2"
+    },
+    {
+        "name": "Periodic Classification of Elements",
+        "index": 4,
+        "link": "https://i.ytimg.com/vi/LImsJWaNyFI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLATbGUBHEwIsX99xTFSXzxfSMs_4w",
+        "desc": "Periodic Classification Of elements L-5 | Periodic Properties & Trends 2 | CBSE 10 Chemistry | Term2"
+    },
+    {
+        "name": "Periodic Classification of Elements",
+        "index": 5,
+        "link": "https://i.ytimg.com/vi/ITbD0yF0Gow/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDau0c2XQJaNZXAT9irkffHSBRz6w",
+        "desc": "Periodic Classification Of Elements - One Shot[Complete Chapter] | CBSE 10 Chemistry Chap 5 | Term 2"
+    },
+    {
+        "name": "Periodic Classification of Elements",
+        "index": 6,
+        "link": "https://i.ytimg.com/vi/5owY2nFYEzw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCF1pBacIUk_XcpurQ4brjtfdR1Qw",
+        "desc": "CBSE Class 10 Chemistry - Term 2 Complete Syllabus Revision Quiz[Boards 2022] Vedantu 9 & 10 Hindi"
+    },
+    {
+        "name": "Light Reflection and Refraction",
+        "index": 0,
+        "link": "https://i.ytimg.com/vi/36McvkO4_lE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC-jPhA9A_3MCLnomogFTEMTAtbSg",
+        "desc": "Class 10th Science | Light | Reflection of Light & Laws of Reflection | Chapter 10 | NCERT\n"
+    },
+    {
+        "name": "Light Reflection and Refraction",
+        "index": 1,
+        "link": "https://i.ytimg.com/vi/9iq6dAHyeuw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBNb-jTfu7zd8jo0bKKZnHUSKbNIw",
+        "desc": "Class 10th Science | Image (Real and Virtual) | Plane Mirror | Important Terms of Spherical Mirrors\n"
+    },
+    {
+        "name": "Light Reflection and Refraction",
+        "index": 2,
+        "link": "https://i.ytimg.com/vi/lZo3ndbkw3o/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA09Go10wm2RhatYFL0Z1YBEKQ1Wg",
+        "desc": "Class 10th Science | Concave Mirror (Image Formation and Uses) | Chapter 10 - Light | NCERT\n"
+    },
+    {
+        "name": "Light Reflection and Refraction",
+        "index": 3,
+        "link": "https://i.ytimg.com/vi/Y8y1uZEOkQg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBOQhqU8_z-HDBtfNn37c4g2ev9Cw",
+        "desc": "Class 10th Science | Convex Mirror (Image Formation and Uses) | Chapter 10 : Light | NCERT"
+    },
+    {
+        "name": "Light Reflection and Refraction",
+        "index": 4,
+        "link": "https://i.ytimg.com/vi/N1mi0bYpXqo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBlC5cijB2XN29Qw0yk0Bud2WeWQA",
+        "desc": "Class 10th Science | Spherical Mirrors (Sign Convention, Mirror Formula, Magnification) | Chapter 10"
+    },
+    {
+        "name": "Light Reflection and Refraction",
+        "index": 5,
+        "link": "https://i.ytimg.com/vi/q4czl8SwALc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBl2TTT1_aro64xTDPWCIEmHihXdw",
+        "desc": "Class 10th Science Chapter 10 | Example 10.1 and 10.2 | Light | NCERT\n"
+    },
+    {
+        "name": "Light Reflection and Refraction",
+        "index": 6,
+        "link": "https://i.ytimg.com/vi/eyRMU5I-5PE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCKH025d7hT4VbJZAtjkcQoAJJ1hg",
+        "desc": "Class 10th Science | Refraction of Light & Laws of Refraction | Refraction through Glass Slab"
+    },
+    {
+        "name": "Light Reflection and Refraction",
+        "index": 7,
+        "link": "https://i.ytimg.com/vi/RBMWOh6-EOY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBGTZpqcgCRRhFZupJFyCU5-5MllA",
+        "desc": "Class 10th Science | Refractive Index | Chapter 10 : Light | NCERT\n"
+    },
+    {
+        "name": "Light Reflection and Refraction",
+        "index": 8,
+        "link": "https://i.ytimg.com/vi/8J1_eGhtVhA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDYDfTltBUExrkL9MQ-lAwpDXLPfA",
+        "desc": "Class 10th Science | Spherical Lenses | Chapter 10: Light | NCERT"
+    },
+    {
+        "name": "Light Reflection and Refraction",
+        "index": 9,
+        "link": "https://i.ytimg.com/vi/w2Y--E_l--A/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBx_crJlyGscimKgc9ioAIULoD0Kw",
+        "desc": "Class 10th Science | Convex Lens (Image Formation and Uses) | Chapter 10 \u2013 Light | NCERT\n"
+    },
+    {
+        "name": "Light Reflection and Refraction",
+        "index": 10,
+        "link": "https://i.ytimg.com/vi/1Xu5Gmc1b8E/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCJsIp72yWU4rtJnT02EtKzra1lPg",
+        "desc": "Class 10th Science | Concave Lens (Image Formation and Uses) | Chapter 10 \u2013 Light | NCERT\n"
+    },
+    {
+        "name": "Light Reflection and Refraction",
+        "index": 11,
+        "link": "https://i.ytimg.com/vi/rUCYc3rdvjk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAAi2FDqwXjb80olBWXWuF3TJAuSA",
+        "desc": "Class 10th Science | Lens Formula and Magnification | Chapter 10 \u2013 Light | NCERT"
+    },
+    {
+        "name": "Light Reflection and Refraction",
+        "index": 12,
+        "link": "https://i.ytimg.com/vi/Gs7EIoVE5U4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC9B_NclUNeYiaarRPsXrdSrvP4VQ",
+        "desc": "Class 10th Science Chapter 10 | Example 10.3 and 10.4 | Light | NCERT"
+    },
+    {
+        "name": "Light Reflection and Refraction",
+        "index": 13,
+        "link": "https://i.ytimg.com/vi/doN70Z8ZTHI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC6PM6PiiMawVD806VuVtUHjAd_uQ",
+        "desc": "Class 10th Science | Power of a Lens | Chapter 10 \u2013 Light | NCERT\n"
+    },
+    {
+        "name": "Light Reflection and Refraction",
+        "index": 14,
+        "link": "https://i.ytimg.com/vi/fJgcutRgh0c/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCHb53nVvhOM85VX5bKMmMo_vll2w",
+        "desc": "Class 10th Science Chapter 10 | In-Text Questions| Light | NCERT"
+    },
+    {
+        "name": "Light Reflection and Refraction",
+        "index": 15,
+        "link": "https://i.ytimg.com/vi/XfmQMo8IrcY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBtG_0a8W_mE-T4sjOXoeOOwDKqFg",
+        "desc": "Class 10th Science Chapter 10 | Exercise Questions (1 to 9) | Light | NCERT"
+    },
+    {
+        "name": "Light Reflection and Refraction",
+        "index": 16,
+        "link": "https://i.ytimg.com/vi/Nzi1GhBix_E/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBsvecgj2lrk_EkVzsrCva0Bq5eNQ",
+        "desc": "Class 10th Science Chapter 10 | Exercise Questions (10 to 17) | Light | NCERT\n"
+    },
+    {
+        "name": "Human Eye and Colourful World",
+        "index": 0,
+        "link": "https://i.ytimg.com/vi/QqVmBAFKBBs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCj7H9va5XlvPxikTMsiwzoOywhkQ",
+        "desc": "Class 10th Science | Human Eye | Chapter 11 : Human Eye and the Colourful World | NCERT"
+    },
+    {
+        "name": "Human Eye and Colourful World",
+        "index": 1,
+        "link": "https://i.ytimg.com/vi/CwMLOqDZFjg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCK-nlg94OjsNXilkbs0oH15k3ynQ",
+        "desc": "Class 10th Science | Dispersion by Glass Prism | Rainbow | Chapter 11: Human Eye and Colourful World"
+    },
+    {
+        "name": "Human Eye and Colourful World",
+        "index": 2,
+        "link": "https://i.ytimg.com/vi/lRh49uamUMI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDbIo2RMMb_d-QW8ZeYD2l7cFwYEg",
+        "desc": "Class 10th Science | Atmospheric Refraction | Twinkling of Stars | Planets don't Twinkle | Chap. 11"
+    },
+    {
+        "name": "Human Eye and Colourful World",
+        "index": 3,
+        "link": "https://i.ytimg.com/vi/ht2g67Leb7g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAvzChhqWUC7tI3KasNQ1l2aDXFsg",
+        "desc": "Class 10th Science | Scattering of Light (Tyndall Effect) | Blue Sky | Colour of Sun | Chapter 11"
+    },
+    {
+        "name": "Human Eye and Colourful World",
+        "index": 4,
+        "link": "https://i.ytimg.com/vi/Pcy7dye3NzI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA49-ftjSkrGIzsSz4FbVrfqE0GPg",
+        "desc": "Class 10th Science | Defects of Vision and Their Correction | Chapter 11 | NCERT\n"
+    },
+    {
+        "name": "Human Eye and Colourful World",
+        "index": 5,
+        "link": "https://i.ytimg.com/vi/NA9Q5b1hmiI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBLyCBPbGV2YW7lCdRPMuPN4vBpkw",
+        "desc": "Class 10th Science Chapter 11 | Exercise Questions (1 to 13) | The Human Eye and the Colourful World"
+    },
+    {
+        "name": "Electricity",
+        "index": 0,
+        "link": "https://i.ytimg.com/vi/h6QZwLy4vc4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAL3Wz7sl1UROXKdNRFrWBaztkFEg",
+        "desc": "Class 10th Science Chapter 12 | Electric Current and Circuit | Electricity | NCERT\n"
+    },
+    {
+        "name": "Electricity",
+        "index": 1,
+        "link": "https://i.ytimg.com/vi/ygG7E_6g-JQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBYJpmebNLnLJgrMBd1noVOQwCCmw",
+        "desc": "Class 10th Science Chapter 12 | Electric Potential & Potential Difference | Electricity | NCERT\n"
+    },
+    {
+        "name": "Electricity",
+        "index": 2,
+        "link": "https://i.ytimg.com/vi/rq7DZBz3H-0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDSSg6yyAkCQS5LeZSzIZRVg_Z_DA",
+        "desc": "Class 10th Science Chapter 12 | Ohm\u2019s Law | Electricity | NCERT\n"
+    },
+    {
+        "name": "Electricity",
+        "index": 3,
+        "link": "https://i.ytimg.com/vi/0jtVeDXEiAU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLClMKXFz3JhaewJEN1sYhGAOtS8Aw",
+        "desc": "Class 10th Science Chapter 12 | Factors on which resistance of a conductor depends | Resistivity\n"
+    },
+    {
+        "name": "Electricity",
+        "index": 4,
+        "link": "https://i.ytimg.com/vi/qycBBuhj_i0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLChsPnOrbYtbs2MBCRejod6OZTHkA",
+        "desc": "Class 10th Science Chapter 12 | Series & Parallel Combination of Resistors | Electricity | NCERT"
+    },
+    {
+        "name": "Electricity",
+        "index": 5,
+        "link": "https://i.ytimg.com/vi/Oi0FfxEnm7I/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD4lVzFkLnqojewSAYIwujEmzYGWA",
+        "desc": "Class 10th Science Chapter 12 | Heating Effect of Current & It's Applications | Electric power\n"
+    },
+    {
+        "name": "Electricity",
+        "index": 6,
+        "link": "https://i.ytimg.com/vi/mk0Y0L5WzYQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCwRSBeLxgwNsfMaxqEWcoOO4oqqQ",
+        "desc": "Class 10th Science Chapter 12 | All Examples (12.1 to 12.13) in One Shot | Electricity | NCERT\n"
+    },
+    {
+        "name": "Electricity",
+        "index": 7,
+        "link": "https://i.ytimg.com/vi/8LyIeCXjVuc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCYTP0ucNHiKTEpPf4pzUSosF9E_A",
+        "desc": "Class 10th Science Chapter 12 | In - Text Questions (Page No. 200, 202 & 209) | Electricity | NCERT"
+    },
+    {
+        "name": "Electricity",
+        "index": 8,
+        "link": "https://i.ytimg.com/vi/Ua8xN70zSkM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAIxKhy4ZLH0DvOX4lQawpe8hagSA",
+        "desc": "Class 10th Science Chapter 12 | In - Text Questions (Page No. 213, 216) | Electricity | NCERT\n"
+    },
+    {
+        "name": "Electricity",
+        "index": 9,
+        "link": "https://i.ytimg.com/vi/AGuWxUJNUsM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA6Xk9nGxuGGczwBpdzx0U02sI3cA",
+        "desc": "Class 10th Science Chapter 12 | In - Text Questions (Page No. 218, 220) | Electricity | NCERT"
+    },
+    {
+        "name": "Electricity",
+        "index": 10,
+        "link": "https://i.ytimg.com/vi/IX_AoYj8dxs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCrd7c88aI-rwjve-NS7rblh9Di-g",
+        "desc": "Class 10th Science Chapter 12 | Exercise Questions (Q1, Q2, Q3, Q4, Q5, Q6) | Electricity | NCERT\n"
+    },
+    {
+        "name": "Electricity",
+        "index": 11,
+        "link": "https://i.ytimg.com/vi/2RcjR-hdM1A/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC5-g0ZMH_PHEYroR3XUzn7Icz7MA",
+        "desc": "Class 10th Science Chapter 12 | Exercise Questions (Q7, Q8) | Electricity | NCERT\n"
+    },
+    {
+        "name": "Electricity",
+        "index": 12,
+        "link": "https://i.ytimg.com/vi/YQB7bMnE2UU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBGry0zU8Z0t6NeyEXjyUnl5NMMAA",
+        "desc": "Class 10th Science Chapter 12 | Exercise Questions (Q9, Q10, Q11, Q12, Q13) | Electricity | NCERT\n"
+    },
+    {
+        "name": "Electricity",
+        "index": 13,
+        "link": "https://i.ytimg.com/vi/TFBd8u98uiA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC3WSq75tr49jQtV03QWhF9HOZDrQ",
+        "desc": "Class 10th Science Chapter 12 | Exercise Questions (Q14, Q15, Q16, Q17, Q18) | Electricity | NCERT\n"
+    },
+    {
+        "name": "Magnetic Effects of Electric Current",
+        "index": 0,
+        "link": "https://i.ytimg.com/vi/6Rmj4RRA3po/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBeBLe_3SbA9YpVmfW_OKvkydgddA",
+        "desc": "Magnetic Effects of Electric Current Physics NCERT CBSE Part-1"
+    },
+    {
+        "name": "Magnetic Effects of Electric Current",
+        "index": 1,
+        "link": "https://i.ytimg.com/vi/i3BCb_jtRSQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCZaPSRY3S4TLBP_Wprd3iwyiQGjg",
+        "desc": "Magnetic Effects of Electric Current Class 10 Physics NCERT CBSE Part-2"
+    },
+    {
+        "name": "Magnetic Effects of Electric Current",
+        "index": 2,
+        "link": "https://i.ytimg.com/vi/0SUbm0bBcBY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBDc8e3vAXV__HR-qMv8NS2k08OdA",
+        "desc": "Magnetic Effects of Electric Current Class 10 Physics NCERT CBSE Part-3\n"
+    },
+    {
+        "name": "Magnetic Effects of Electric Current",
+        "index": 3,
+        "link": "https://i.ytimg.com/vi/rgP1RfjGtAM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCVd1RiHdbgK_ToSMK2-d-EuNi0vg",
+        "desc": "Magnetic Effect of Electric Current | Class 10| Magnetic filed due to solonoid| Physics Part- 4\n"
+    },
+    {
+        "name": "Magnetic Effects of Electric Current",
+        "index": 4,
+        "link": "https://i.ytimg.com/vi/yrVHFCA1cnY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA5MeOcjKfNN6Wm37LDiyhuFhhssg",
+        "desc": "Magnetic effects of Electric Current | Flemings Left Hand rule| Physics NCERT CBSE Part-5\n"
+    },
+    {
+        "name": "Magnetic Effects of Electric Current",
+        "index": 5,
+        "link": "https://i.ytimg.com/vi/gfWK4KT6mB0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCA_xPwKqnEXSGASHYGm1qA1Erh4A",
+        "desc": "Magnetic Effects of Electric current | DC Motor | Electric Motor | Physics NCERT CBSE Part-6"
+    },
+    {
+        "name": "Magnetic Effects of Electric Current",
+        "index": 6,
+        "link": "https://i.ytimg.com/vi/-Uz0SnHTa_Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDf3pkAZFMPGH3ZD-nUxstqBR7_LA",
+        "desc": "Magnetic Effects of Electric Current CBSE NCERT Part-7"
+    },
+    {
+        "name": "Magnetic Effects of Electric Current",
+        "index": 7,
+        "link": "https://i.ytimg.com/vi/z_OfDJ0pgGw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB2g0tb5Z9RjCAcXIGIR2_zQwfiBg",
+        "desc": "Magnetic Effect of Electric Current CBSE NCERT Class 10 Part-8"
+    },
+    {
+        "name": "Magnetic Effects of Electric Current",
+        "index": 8,
+        "link": "https://i.ytimg.com/vi/G3JpRfNT_nA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBVUOaro8vLJ9_tN2RtwpYChHKuvg",
+        "desc": "Magnetic effect of electric current class 10 cbse/ncert part-9\n"
+    },
+    {
+        "name": "Magnetic Effects of Electric Current",
+        "index": 9,
+        "link": "https://i.ytimg.com/vi/EeTTkjYlxbQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLABge5EmfbfwG_Y_XsROxEd9d9ilw",
+        "desc": "Magnetic Effect Of Electric Current | Class 10 | Mind map| revision"
+    },
+    {
+        "name": "Magnetic Effects of Electric Current",
+        "index": 10,
+        "link": "https://i.ytimg.com/vi/M4iOw773GfA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAqd7UqR7fkKCrYWalBztHJN0Qwcw",
+        "desc": "Magnetic Effect of Electric Current MCQs"
+    },
+    {
+        "name": "Sources of Energy",
+        "index": 0,
+        "link": "https://i.ytimg.com/vi/yL_i6gQCRsQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCfaLyYN5KBL1YJRX5oNuWFm1_feQ",
+        "desc": "Sources Of Energy - Lecture 1 | Class 10 | Unacademy Foundation - Physics | Seema Rao"
+    },
+    {
+        "name": "Sources of Energy",
+        "index": 1,
+        "link": "https://i.ytimg.com/vi/LxyuB7ov5EY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDK513_kqSYeOKW7iYPhJlx0c62qA",
+        "desc": "Sources Of Energy - Lecture 2 | Class 10 | Unacademy Foundation - Physics | Seema Rao"
+    },
+    {
+        "name": "Sources of Energy",
+        "index": 2,
+        "link": "https://i.ytimg.com/vi/ALjcX51jwig/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAj6y5Be2NejqtOQqVmxoZgmPXyHw",
+        "desc": "Sources Of Energy - Lecture 3 | Class 10 | Unacademy Foundation - Physics | Seema Rao"
+    },
+    {
+        "name": "Sources of Energy",
+        "index": 3,
+        "link": "https://i.ytimg.com/vi/pTaPAWdzEoI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBrP5oH-qkjDhZu7DmWJlKBIJDFnw",
+        "desc": "Sources Of Energy - Lecture 4 | LPG | Class 10 | Unacademy Foundation - Physics | Seema Rao"
+    },
+    {
+        "name": "Sources of Energy",
+        "index": 4,
+        "link": "https://i.ytimg.com/vi/u837ZAve04U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAX2Ib6Lwm40nAEJV4NyKbk2YNU6Q",
+        "desc": "Sources Of Energy - Lecture 5 | Class 10 | Unacademy Foundation - Physics | Seema Rao"
+    },
+    {
+        "name": "Sources of Energy",
+        "index": 5,
+        "link": "https://i.ytimg.com/vi/LlznxwCtpok/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDPcp2vOXl85LvkYqPaIBxsmUEo3g",
+        "desc": "Sources Of Energy - Lecture 6 | Class 10 | Unacademy Foundation - Physics | Seema Rao"
+    }
+]
