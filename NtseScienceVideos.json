@@ -1,7 +1,505 @@
 [
+  
   {
-    "link":"https://i.ytimg.com/vi/RBrRGuzZjvw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7W3bvOiBJI8kT8MsacCioNuDHqw",
-    "desc":"GTA Trilogy: Definitive Edition | Release vs Last Patch",
-    "code":"RBrRGuzZjvw"
+    "link":"https://i.ytimg.com/vi/wit0_CjWfEs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLANMf_mo7lxj6N19vehZRWkv_hk7Q",
+    "desc":"NTSE SAT (Stage 1) Science | Cell and Tissues - Introduction",
+    "code":"wit0_CjWfEs"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/a9eSVApjVOs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCZlGWzzLORv_LidSbXO71RhQxsPw",
+    "desc":"NTSE SAT (Stage 1) Science | Discovery and History of the Cell - Cell and Tissues",
+    "code":"a9eSVApjVOs"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/B2FhHs4jtrM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC4wbo9nQdjHFLzX0i71pkkmce_sQ",
+    "desc":"NTSE SAT (Stage 1) Science | Unicellular and Multicellular Organisms - Cell & Tissues",
+    "code":"B2FhHs4jtrM"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/7pO7_DF5csU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAq5umj3QpiQqROwDU5L1lRQHqU4g",
+    "desc":"NTSE SAT (Stage 1) Science | Components of Cell - Cell Membrane",
+    "code":"7pO7_DF5csU"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/IVYGvIiywnQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAQzSh0kGDrkscvP1DrO-jSXyM_aQ",
+    "desc":"NTSE SAT (Stage 1) Science | Components of Cell - Cell Wall and Cytoplasm",
+    "code":"IVYGvIiywnQ"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/YFyB7SLQhDI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCASYtCcA8x5z_67kkCVbiNT5vMhA",
+    "desc":"NTSE SAT (Stage 1) Science | Components of Cell: Nucleus - Cell & Tissues",
+    "code":"YFyB7SLQhDI"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/Erx26bNG8r0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCvv489K62yQJ-xylhmmzLrBIGM0Q",
+    "desc":"NTSE SAT (Stage 1) Science | Cell Organelles - Endoplasmic Reticulum, Golgi Body & Ribosomes",
+    "code":"Erx26bNG8r0"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/BhjXVgaOa80/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDqYAvk9O8Ha4ZKi5gxc6Ghhs7tGw",
+    "desc":"NTSE SAT (Stage 1) Science | Cell Organelles - Mitochondria and Lysosomes",
+    "code":"BhjXVgaOa80"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/p6S3JV5jIQM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC4eDKhQcO-JyLJgNFQQsce6Gr7Xw",
+    "desc":"NTSE SAT (Stage 1) Science | Cell Organelles - Plastids, Vacuoles & Cell Inclusions",
+    "code":"p6S3JV5jIQM"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/Vz_IeUpwu_s/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDFWsDWsFIxinP_V7ANOari-r5dmg",
+    "desc":"NTSE SAT (Stage 1) Science | Cell & Tissues - Topic Related Questions (Part 1)",
+    "code":"Vz_IeUpwu_s"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/mOedmogCY3o/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBk84kwOeYLImfzKPX0aNqR6ek2yQ",
+    "desc":"NTSE SAT (Stage 1) Science | Tissues - Plant Tissues",
+    "code":"mOedmogCY3o"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/qmarUeAK_dg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDG3o7JPCcbQ2QveSJTMJmT0D97QA",
+    "desc":"NTSE SAT (Stage 1) Science | Simple Permanent Tissue - Cell and Tissues",
+    "code":"qmarUeAK_dg"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/V6GS5S0-zlw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUjbO_EDAMd4E1MT4FbtvWNVDe1Q",
+    "desc":"NTSE SAT (Stage 1) Science | Complex Permanent Tissue - Cell and Tissues",
+    "code":"V6GS5S0-zlw"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/gc1P7ysLbOk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAf4wVThrUbbHhtcksZU4Pz08j4DA",
+    "desc":"NTSE SAT (Stage 1) Science | Animal Tissues - Epithelial Tissue",
+    "code":"gc1P7ysLbOk"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/Gz1pZ2Sg8nE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCJWb4ZbNFbIC6FN3praEXtjppdRQ",
+    "desc":"NTSE SAT (Stage 1) Science | Animal Tissues - Muscle Tissues & Nervous Tissues",
+    "code":"Gz1pZ2Sg8nE"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/WdDtyqaKBdU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCT1J2mmjkCLihoNYqL2HZbpVwpTg",
+    "desc":"NTSE SAT (Stage 1) Science | Animal Tissues - Connective Tissues",
+    "code":"WdDtyqaKBdU"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/P8gUMwSnQBE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAA9Ob31GbBj6euUCQeXULwupI--g",
+    "desc":"NTSE SAT (Stage 1) Science | Cell & Tissues - Multiple Choice Questions (Exercise 1)",
+    "code":"P8gUMwSnQBE"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/kCb-2z_Zi_M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCjJKdUl7oEeXAhI6XZyUz073SP2A",
+    "desc":"NTSE SAT (Stage 1) Science | Cell and Tissues - Previous Year Questions (PYQs)",
+    "code":"kCb-2z_Zi_M"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/BIi7eS2By1s/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBS9RBcpmURM-lSV61K14OGxOmm0w",
+    "desc":"NTSE SAT (Stage 1) Science | Diversity in Living Organisms - Introduction",
+    "code":"BIi7eS2By1s"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/0VCXos5AoqU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCaxsbkjHfgEl2Q0pw1hz3vDhetNA",
+    "desc":"NTSE SAT (Stage 1) Science | Diversity in Living Organisms and Their Classification",
+    "code":"0VCXos5AoqU"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/ARaOQmo4WXA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBYmR7O3YKmMWslshmaD-w32QjbCQ",
+    "desc":"NTSE SAT (Stage 1) Science | Hierarchy of Classification - Diversity in Living Organisms",
+    "code":"ARaOQmo4WXA"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/Z_RgZOiTHs4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBDSKiX-IbAu7ys4ihoD-OmJ5j3TQ",
+    "desc":"NTSE SAT (Stage 1) Science | Kingdom: Monera - Diversity in Living Organisms",
+    "code":"Z_RgZOiTHs4"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/5vdeMmobu10/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD1w1cqfh0IAhPmgVyQsi4TVTYUww",
+    "desc":"NTSE SAT (Stage 1) Science | Kingdom Protista and Kingdom Fungi",
+    "code":"5vdeMmobu10"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/0Va5yjXfUlg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB--y-F-nJowJ774TP6KL4p27Vh9g",
+    "desc":"NTSE SAT (Stage 1) Science | Kingdom Plantae: Thallophyta, Bryophyta and Pteridophyta",
+    "code":"0Va5yjXfUlg"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/a20ZWXxJsqU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAoZC9k4GSLIQB16QWWNa-uO6p1vQ",
+    "desc":"NTSE SAT (Stage 1) Science | Gymnosperms and Angiosperms - Diversity in Living Organisms",
+    "code":"a20ZWXxJsqU"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/asUtByMO04k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBR05yU541ZRFnBTEQf3zziso0__g",
+    "desc":"NTSE SAT (Stage 1) Science | Classification of Animal Kingdom - Diversity in Living Organisms",
+    "code":"asUtByMO04k"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/bdzfU02841I/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDHIu3sz78Rn7K6PBzNR9jOST7FVQ",
+    "desc":"NTSE SAT (Stage 1) Science | Animal Kingdom: Phylum Porifera - Diversity in Living Organisms",
+    "code":"bdzfU02841I"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/0_t3ryjdPQg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAz3-w4SkPjSsSR6qv0rF0xWyL2kA",
+    "desc":"NTSE SAT (Stage 1) Science | Animal Kingdom: Phylum Cnidaria or Coelenterata",
+    "code":"0_t3ryjdPQg"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/ubm4MUnC03k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCE1bx_RtzQzJA4Z0PgG5yBHUSgRg",
+    "desc":"NTSE SAT (Stage 1) Science | Animal Kingdom Phylum: Platyhelminthes and Aschelminthes",
+    "code":"ubm4MUnC03k"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/gbp-H0lxU_I/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBhZKCOPsWhXp7g4WzM5j0YEcgk-g",
+    "desc":"NTSE SAT (Stage 1) Science | Animal Kingdom Phylum: Annelida and Arthropoda",
+    "code":"gbp-H0lxU_I"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/3ygb85vNmBU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCCT875HKkRN6ArdmRik_jSH0T4DA",
+    "desc":"NTSE SAT (Stage 1) Science | Animal Kingdom Phylum: Mollusca and Echinodermata",
+    "code":"3ygb85vNmBU"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/nKQ-IF8Kt1c/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLASRK6ygyy3ZZc9GQUlB7Vq965rMw",
+    "desc":"NTSE SAT (Stage 1) Science | Animal Kingdom: Phylum Chordata",
+    "code":"nKQ-IF8Kt1c"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/gs8pRJIEOLQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBt5JY3iSFIaLnm5niFw-f6PKqUMw",
+    "desc":"NTSE SAT (Stage 1) Science | Subphylum Vertebrata (Class Pisces) - Diversity in Living Organisms",
+    "code":"gs8pRJIEOLQ"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/iGcmS46FdoM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLClRIR2ouRg2QoQhL5BAq0Nm3W3bA",
+    "desc":"Subphylum Vertebrata (Class Amphibia and Class Reptilia) | NTSE SAT (Stage 1) Science",
+    "code":"iGcmS46FdoM"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/JvMkLlZ4604/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD4OrNepyeTxHOwnzrSXKzwgEI9DQ",
+    "desc":"Subphylum Vertebrata (Class Aves and Class Mammalia) | NTSE SAT (Stage 1) Science",
+    "code":"JvMkLlZ4604"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/mqQu9cyJKHg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC40N8EyAUKyFKLWI1iJKJufhJoVA",
+    "desc":"Some Common Diseases: Health and Diseases - Overview | NTSE SAT (Stage 1) Science",
+    "code":"mqQu9cyJKHg"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/DOZUQ8Us2fo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC5RORNMz-DMRkzaj3JuivCPyKgCw",
+    "desc":"Health and Diseases - Health and its Failure | NTSE SAT (Stage 1) Science",
+    "code":"DOZUQ8Us2fo"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/tc0mHrsp9So/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLByAAAi4g2HPrLZIPMlL6tEE-VJOw",
+    "desc":"All About Diseases and its Causes - Health and Diseases | NTSE Sat (Stage 1) Science",
+    "code":"tc0mHrsp9So"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/w2LAtPjIgHw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBM0EM3943mxKuvjQygPVYxPHeb4A",
+    "desc":"Types of Diseases | NTSE SAT (Stage 1) Science",
+    "code":"w2LAtPjIgHw"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/7rvaE1gjOhU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLALYNLYQHxXwk3eTybGqQjsVlnvXA",
+    "desc":"Means of Spread of Communicable Diseases | NTSE SAT (Stage 1) Science",
+    "code":"7rvaE1gjOhU"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/JlkIMjhCqJs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCF379y8ERauPKn1IhC1a3GsEKSRA",
+    "desc":"Matter in our Surrounding | Lec-01 | NTSE/JEE Course | Class-9th Science | Daily @6:30PM",
+    "code":"JlkIMjhCqJs"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/Eylm8lhgu_Y/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB9LRc2h-fXjAh5nbbBf3IuD9dUBg",
+    "desc":"Matter in our Surrounding | Lec-02 | NTSE/JEE Course | Class-9th Science | Daily @6:30PM",
+    "code":"Eylm8lhgu_Y"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/Y-oDZAeP-0g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDY4a63qu252yn4csh_Hw4DgdQf1g",
+    "desc":"Matter in our Surrounding | Lec-03 | NTSE/JEE Course | Class-9th Science | Daily @6:30PM",
+    "code":"Y-oDZAeP-0g"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/2aWpgD8xxnc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD3_dB5jROP-AHuAbJ4TioC3sVDFA",
+    "desc":"Is Matter Pure around Us ? | Lec-01 | NTSE/JEE Course | Class-9th Science | Daily @6:30PM",
+    "code":"2aWpgD8xxnc"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/hGy-k1rs7yQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCHW29Mi9hD1FbOwS8Es3Iu_XEPFQ",
+    "desc":"Is Matter Pure around Us ? | Lec-02 | NTSE/JEE Course | Class-9th Science | Daily @6:30PM",
+    "code":"hGy-k1rs7yQ"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/JCeUooNDnng/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDSZY6nH9HpMXZEblImneu1f6M04g",
+    "desc":"Is Matter Pure around Us ? | Lec-03 | NTSE/JEE Course | Class-9th Science | Daily @6:30PM",
+    "code":"JCeUooNDnng"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/dlIgybmq6gw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCs03hFsiKC-CINbfxU0cNanyUyZw",
+    "desc":"Is Matter Pure around Us ? | Lec-04 | NTSE/JEE Course | Class-9th Science | Daily @6:30PM",
+    "code":"dlIgybmq6gw"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/8nd9wClw_dQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBDrBn60yKpyroHRhM-5jCjWyev6A",
+    "desc":"Atoms & Molecules | Lec-01 | NTSE/JEE Course | Class-9th Science | Daily @6:30PM",
+    "code":"8nd9wClw_dQ"
+  },
+  {
+    "link":"https://i.ytimg.com/vi/IsDaO7YOuOw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCPbiJIJfplwSbInYDaQ1ybEKvveg",
+    "desc":"Atoms & Molecules | Lec-02 | NTSE/JEE Course | Class-9th Science | Daily @6:30PM",
+    "code":"IsDaO7YOuOw"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/IuY91SPZZR4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBxNQfHd5puzmPR7WY2wwqUKhPVhA",
+    "desc":"Atoms & Molecules | Mole Concept | Lec-03 | NTSE/JEE Course | Class-9th Science | Daily @6:30PM",
+    "code":"IuY91SPZZR4"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/oNmcBgWAQ8I/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCqXMHamZDrwywmrQawM9Ocb68J9g",
+    "desc":"Atoms & Molecules | Practice Session | Lec-04 | NTSE/JEE Course | Class-9th Science | Daily @6:30PM",
+    "code":"oNmcBgWAQ8I"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/XoTzqykPHFg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDk5GEYb3TU8qnOPUuDKknIhUK6Cg",
+    "desc":"Structure of Atom | Lec-01 | NTSE/JEE Course | Class-9th Science | Daily @6:30PM",
+    "code":"XoTzqykPHFg"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/tWODPpGfEJ4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCtmriqYaGvMvFuBX45B4TXFKBjrg",
+    "desc":"Structure of Atom | Lec-02 | NTSE/JEE Course | Class-9th Science | Daily @6:30PM #rankerslive",
+    "code":"tWODPpGfEJ4"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/uKVa_fQiTac/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD6aVCz9xfLXXgGhuz-iQVjrjlkdA",
+    "desc":"Chemical Reactions & Equations | Lec-01 | Class-10th chemistry | NTSE/JEE Chemistry | Daily @6:00PM",
+    "code":"uKVa_fQiTac"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/sCazaIRO_YE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAuEjmvZkedq8og5qvquts8zxGd3A",
+    "desc":"Chemical Reactions & Equations | Lec-02 | Class-10th chemistry | NTSE/JEE Chemistry | Daily @6:00PM",
+    "code":"sCazaIRO_YE"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/UCxcqHfzN1w/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBiEOAAhJdTWDqfvSBha7844SIyPg",
+    "desc":"Chemical Reactions & Equations | Lec-03 | Practice Session | NTSE/JEE Chemistry | Daily @6:00PM",
+    "code":"UCxcqHfzN1w"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/2azbB2UWUng/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDHu5MlaRR6FvAK3DdKrigrKFG3Mw",
+    "desc":"Acids, Bases and Salts | Lec-01 | Class-10th Chemistry | NTSE/JEE Chemistry | Daily @6:00PM #ntse",
+    "code":"2azbB2UWUng"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/z8C21uzTzLU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAqOByOasIbA4NJ0xiC1XyKUUcjeQ",
+    "desc":"Acids, Bases and Salts | Lec-02 | Class-10th Chemistry | NTSE/JEE Chemistry | Daily @6:00PM #ntse",
+    "code":"z8C21uzTzLU"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/DSpQayGxOT0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDCLj0JSQL-Zm1-RBFJGAWfN3HW-w",
+    "desc":"Acids, Bases and Salts | Lec-03 | Class-10th Chemistry | NTSE/JEE Chemistry | Daily @6:00PM #ntse",
+    "code":"DSpQayGxOT0"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/MLusR6c1TYk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBhkqyEXa46b11neRm_TOc_rmBp-Q",
+    "desc":"Acids, Bases and Salts | Lec-04 | Class-10th Chemistry | NTSE/JEE Chemistry | Daily @6:00PM #ntse",
+    "code":"MLusR6c1TYk"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/c_NNGDcTR0M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDHcKqYuGorvyI_wNiqeFk6lNEQVA",
+    "desc":"Acids, Bases and Salts | Lec-05 | Class-10th Chemistry | NTSE/JEE Chemistry | Daily @6:00PM #ntse",
+    "code":"c_NNGDcTR0M"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/-rR-a2st1U0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCu6rp26yYgUPqo1G10Cag5gClqoQ",
+    "desc":"Metals and Non-Metals | Lec-01 | Class-10th Chemistry | NTSE/JEE Chemistry | Daily @6:00PM #ntse",
+    "code":"-rR-a2st1U0"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/X4d_3tIfVkI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBVX9NfRjssHttJ64ShYU86uiNN-g",
+    "desc":"Metals and Non-Metals | Lec-02 | Class-10th Chemistry | NTSE/JEE Chemistry | Daily @6:00PM #ntse",
+    "code":"X4d_3tIfVkI"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/zHYfhE9YnzM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAkLJtrCgdIpreFwmPFCtrbuoYpxA",
+    "desc":"Metals and Non-Metals | Lec-03 | Class-10th Chemistry | NTSE/JEE Chemistry | Today @6:30PM #ntse",
+    "code":"zHYfhE9YnzM"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/4GvS3IKKvIA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDjnyHKenH-Laxt2AOpBFXZXROL8g",
+    "desc":"Metals and Non-Metals | Lec-04 | Class-10th Chemistry | NTSE/JEE Chemistry | Daily @6:00PM #ntse",
+    "code":"4GvS3IKKvIA"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/ciF79bYc3yg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBqhjoaBa2-Nc0aMcSn9FCEZo7CRQ",
+    "desc":"Metals and Non-Metals | Lec-05 | Class-10th Chemistry | NTSE/JEE Chemistry | Daily @6:00PM #ntse",
+    "code":"ciF79bYc3yg"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/js4f4RBZKM0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBGY1HEdAxM4cNjbvTmx5qCCA_1VA",
+    "desc":"Carbon & It's Compound | Lec-01 | Class-10th Chemistry | NTSE/JEE Chemistry | Daily @6:00PM #ntse",
+    "code":"js4f4RBZKM0"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/Bk6PYrgYJwo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDACSi-T3CfjznDxRhBxPdlQcqOEQ",
+    "desc":"Carbon & It's Compound | Lec-02 | Class-10th Chemistry | NTSE/JEE Chemistry | Daily @6:00PM #ntse",
+    "code":"Bk6PYrgYJwo"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/Bk6PYrgYJwo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDACSi-T3CfjznDxRhBxPdlQcqOEQ",
+    "desc":"Carbon & It's Compound | Lec-03 | Class-10th Chemistry | NTSE/JEE Chemistry | Daily @6:00PM #ntse",
+    "code":"Bk6PYrgYJwo"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/wostN2pkl7c/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBUjushcQvqG_Lep7EAdMvajVbRWg",
+    "desc":"Carbon and It's Compound | Lec-04 | Class-10th Chemistry | NTSE/JEE Chemistry | Daily @6:00PM #ntse",
+    "code":"wostN2pkl7c"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/mCgF5wgfCGE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDtvkODBllHTx0syvmEfbk4M-u0Ug",
+    "desc":"Carbon and It's Compound | Lec-05 | Class-10th Chemistry | NTSE/JEE Chemistry | Daily @6:00PM #ntse",
+    "code":"mCgF5wgfCGE"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/AFoFDFWUB9Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCRBEYGfVKCfnAfzURAIaxNXoaY5w",
+    "desc":"Carbon and It's Compound | Lec-06 | Class-10th Chemistry | NTSE/JEE Chemistry | Daily @6:00PM #ntse",
+    "code":"AFoFDFWUB9Q"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/ombewITH-rg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAAC87Ki-cEGdnK0VDFdHBYVJIPTg",
+    "desc":"Carbon and It's Compound | Lec-07 | Practice Session | NTSE/JEE Chemistry | Daily @6:00PM #ntse",
+    "code":"ombewITH-rg"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/FBf-cvvfqRQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB9Y-flWLO1_lNTYoGz9UgiB3M-1g",
+    "desc":"Periodic Classification of Elements | Lec-01 | Class-10th | NTSE/JEE Chemistry | Daily @6:00PM #ntse",
+    "code":"FBf-cvvfqRQ"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/fsgOBLLcBB0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDRu6rQ1A0mO_5HQMGM1Cz6XXvXtQ",
+    "desc":"Periodic Classification of Elements | Lec-02 | Class-10th | NTSE/JEE Chemistry | Daily @6:00PM #ntse",
+    "code":"fsgOBLLcBB0"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/jjp5UWXQY5s/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDAUVimLDbcprEY_wne7d42h2_IYw",
+    "desc":"Periodic Classification of Elements | Lec-03 | Class-10th | NTSE/JEE Chemistry | Daily @6:00PM #ntse",
+    "code":"jjp5UWXQY5s"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/QhrfoqtOIbY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBV0HoTvOQXhr9VIHXPsglFb0PZTg",
+    "desc":"NTSE Exam Preparation | Motion and Forces | Physics NTSE Scholarship | Vedantu",
+    "code":"QhrfoqtOIbY"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/MLUms_B9QhQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAjGUUKEKUNXycgnnHlAKGXg-kMog",
+    "desc":"NTSE Preparation | Work Energy and Power | Vedantu NTSE | Physics NTSE Scholarship",
+    "code":"MLUms_B9QhQ"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/Fvg1HVNWMa4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAdUxGGwwSrbeXXmfQ0_wJLrL-zIw",
+    "desc":"NTSE Exam | ALL Physics Formula Cheat Sheet for NTSE 2019 | CBSE Science Physics | Vedantu 9 and 10",
+    "code":"Fvg1HVNWMa4"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/3uq9rdIjG_0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBboKxRr7L6oRGLSJT785zCTS6ADA",
+    "desc":"NTSE Exam 2019 | ELECTRICITY | Vedantu NTSE | Physics NTSE Scholarship | Vedantu 9 and 10",
+    "code":"3uq9rdIjG_0"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/Lav3kHOy1g8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA-JZtO_-mXcHIh7dJgCc4Dgp4Xaw",
+    "desc":"NTSE Exam Preparation | LIGHT | Physics Vedantu NTSE Scholarship | Abhishek Sir | Vedantu 9 and 10",
+    "code":"Lav3kHOy1g8"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/Vaw4Nok8umU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDEUCglflP0bZTiUBsIC4gyU-QYug",
+    "desc":"NTSE Exam Preparation | SOUND and GRAVITATION | Physics NTSE Scholarship | Vedantu 9 and 10",
+    "code":"Vaw4Nok8umU"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/NzUnFxIQUIs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBMTBB0sd6gzf-nBXvPJdr7gcTUdQ",
+    "desc":"NTSE 2019-20 Exam | NTSE Physics State PAPER SOLVED | SAMPLE Paper Pattern ANALYSIS | Vedantu NTSE",
+    "code":"NzUnFxIQUIs"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/HnFbqFdMDpM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDp8MY2dymFMuGKCOcE4YVCTIvcuQ",
+    "desc":"NTSE Physics Stage 1: Paper Analysis & Solutions 2019-20 | NTSE SAMPLE Paper Pattern | Vedantu NTSE",
+    "code":"HnFbqFdMDpM"
   }
 ]
