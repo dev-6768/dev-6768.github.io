@@ -1,7 +1,585 @@
-[
+[ 
   {
-    "link":"https://i.ytimg.com/an_webp/H_8UBv5bZo0/mqdefault_6s.webp?du=3000&sqp=CPy5j6IG&rs=AOn4CLCt0iD2dzN1iIuiUYITBjs7SAhAJg",
-    "desc":"Shah Rukh Khan with Sundar Pichai | Happy New Year Film | Talks at Google",
-    "code":"H_8UBv5bZo0"
+    "link":"https://i.ytimg.com/vi/J6QBr5-be_c/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBFxeqNXjrWqyZiQi1_2P3xso0f_w",
+    "desc":"Learn All about National Talent Search Examination | NTSE Stage 1 & NTSE Stage 2 (For All States)",
+    "code":"J6QBr5-be_c"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/TVzSD8IM3ds/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD1HK0gYR_17KzSEXM92pK3__qdIg",
+    "desc":"NTSE MAT (Stage 1) - Syllabus Overview (For All States)",
+    "code":"TVzSD8IM3ds"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/IYDd4W1ePGQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBihekdFqY49W7-C7h8QnMh7ncMfQ",
+    "desc":"NTSE MAT (Stage 1) | Analogy Theory - Analogy | Verbal Analogy",
+    "code":"IYDd4W1ePGQ"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/l6a20l4g4hQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDZcsNvbDhbHSrVeZyrkoRsDUEZQA",
+    "desc":"NTSE MAT (Stage 1) | Analogy - Daily Practice Questions (DPQ) Sheet 1 Solutions",
+    "code":"l6a20l4g4hQ"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/0_A29vgbVGs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDuZMO0PCh8KmZtOtGqgkjNFEw15w",
+    "desc":"NTSE MAT (Stage 1) | Analogy - Daily Practice Question Sheet 2 Solutions",
+    "code":"0_A29vgbVGs"
+  },
+  
+  
+  {
+    "link":"https://i.ytimg.com/vi/v2uVOnPDpt8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBEacawvKywtPGZB5D1_0AAK9ZKUA",
+    "desc":"NTSE MAT (Stage 1) | Classification Theory (40 Solved Questions) - Classification",
+    "code":"v2uVOnPDpt8"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/_wv5KSb7JBA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAEQxAVb-t1UqzqLA2rURM_KES9_g",
+    "desc":"NTSE MAT (Stage 1) | Classification - Daily Practice Questions (DPQ) Sheet 1 Solutions",
+    "code":"_wv5KSb7JBA"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/l4nupeEr0Lc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCZ2mv7bI33dFcT1kJ-dXoC_tZ_bg",
+    "desc":"NTSE MAT (Stage 1) | Classification - Daily Practice Question Sheet 2 Solutions",
+    "code":"l4nupeEr0Lc"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/5imSx6tJSdE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB0HogbZxWSg69qrtUktCKpPKjCcg",
+    "desc":"NTSE MAT (Stage 1) | Coding and Decoding - Basic Concepts (30 Solved Questions)",
+    "code":"5imSx6tJSdE"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/IlV_7tRK_oY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBOpJ1UbdAwletyhTT311CPE5jxTg",
+    "desc":"NTSE MAT (Stage 1) | Coding and Decoding - Daily Practice Questions (DPQ) Sheet 1 Solutions",
+    "code":"IlV_7tRK_oY"
+  },
+  
+  
+  {
+    "link":"https://i.ytimg.com/vi/IioJYxS1qNw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAJHfoaZPq_6ivhZAUUWznrvcYWyg",
+    "desc":"NTSE MAT (Stage 1) | Coding Decoding - Daily Practice Question Sheet 2 Solutions",
+    "code":"IioJYxS1qNw"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/I45ZmBtgTZM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA3gp87VYQwOTCR2pbd80cJXrQEsg",
+    "desc":"NTSE MAT (Stage 1) | Direction Sense Test - Basic Concepts (30 Solved Questions)",
+    "code":"I45ZmBtgTZM"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/2F5uMGV7XTg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC4ZTJdipNyGqsxFmG9RCYCPASZ2Q",
+    "desc":"NTSE MAT (Stage 1) | Direction Sense Test - Daily Practice Questions (DPQ) Sheet 1 Solutions",
+    "code":"2F5uMGV7XTg"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/wixlIbr49j0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAuq7j3BJscqULT1NZMXT6XwGN-bw",
+    "desc":"NTSE MAT (Stage 1) | Direction Sense Test - Daily Practice Question Sheet 2 Solutions",
+    "code":"wixlIbr49j0"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/R5ZywHTSzRM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDJN8dx1z5_B3onQ-zUkhSBPFwTRg",
+    "desc":"NTSE MAT (Stage 1) | Mathematical Operations - Basic Concepts (50 Solved Questions)",
+    "code":"R5ZywHTSzRM"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/Y5AzPsAK0eo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLACQnpB0SHcCbQ2V-4LocwmiCniEg",
+    "desc":"NTSE MAT (Stage 1) | Mathematical Operations - Daily Practice Questions (DPQ) Sheet 1 Solutions",
+    "code":"Y5AzPsAK0eo"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/1N_Bq_ed3T0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBmEzD_gB0XhkS_Lef2xOYTH3tzdg",
+    "desc":"NTSE MAT (Stage 1) | Mathematical Operations - Daily Practice Question Sheet 2 Solutions",
+    "code":"1N_Bq_ed3T0"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/rFpG5TAlMMs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC-Co5dYyspBuN7byOPvVBJjtGTSQ",
+    "desc":"NTSE MAT (Stage 1) | Arithmetical Reasoning Test - Basic Concepts (30 Solved Questions)",
+    "code":"rFpG5TAlMMs"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/luppci-ZQy0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAzXqj1NBFJji9LpHtpxANn1YpbEA",
+    "desc":"NTSE MAT (Stage 1) | Arithmetical Reasoning Test - Daily Practice Questions (DPQ) Sheet 1 Solutions",
+    "code":"luppci-ZQy0"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/Rbyn-Fcyfig/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDgRQEFNeOx_P5GpT2OwqZ6oXES0g",
+    "desc":"NTSE MAT (Stage 1) | Arithmetical Reasoning - Daily Practice Question Sheet 2 Solutions",
+    "code":"Rbyn-Fcyfig"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/p14Zn_9fa8U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBzreMg_kXrgunPC9zm_oZkEj18ow",
+    "desc":"NTSE MAT (Stage 1) | Clock - Concepts and Formulas (25 Solved Questions)",
+    "code":"p14Zn_9fa8U"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/0R3LEGycxXQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC9w37qEW5XsdKdqxzcKVTyxE440g",
+    "desc":"NTSE MAT (Stage 1) | Calendar - Concepts With Tips and Tricks",
+    "code":"0R3LEGycxXQ"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/opT_FykMOhM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBqOrIq81W-btVSwq4XWDChqQeoRg",
+    "desc":"NTSE MAT (Stage 1) | Calendar MCQs (35 Solved Questions)",
+    "code":"opT_FykMOhM"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/v0kRMy5ScJo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBzC4rwMCULMYJ3ebA2UB4NmHbTFg",
+    "desc":"NTSE MAT (Stage 1) | Calendar - Daily Practice Questions (DPQ) Sheet 1 Solutions",
+    "code":"v0kRMy5ScJo"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/iNUAG8Q5-CE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCKOVpzs2B_Noy9CZP8cFl6XAhC5A",
+    "desc":"NTSE MAT (Stage 1) | Calendar - Daily Practice Question Sheet 2 Solutions",
+    "code":"iNUAG8Q5-CE"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/WPPKcbblv94/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAaCGJk60il5PZYvvO36zkPmuyc9g",
+    "desc":"NTSE MAT (Stage 1) | Logical Venn Diagrams Test - Basic Concepts (60 Solved Questions)",
+    "code":"WPPKcbblv94"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/KD1u8hrNEFY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAHaYAIhDkzqL2GthMokgNrZqRMhA",
+    "desc":"NTSE MAT (Stage 1) | Logical Venn Diagrams Test - Daily Practice Questions (DPQ) Sheet 1 Solutions",
+    "code":"KD1u8hrNEFY"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/W5kOarr6ISo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD14oDLxJi_NSdw0b05p-2vGYKPHg",
+    "desc":"NTSE MAT (Stage 1) | Venn Diagrams - Daily Practice Question Sheet 2 Solutions",
+    "code":"W5kOarr6ISo"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/47DAUl4XkFE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA4euGisKPLQWS1EbbnM-qQifRHDg",
+    "desc":"NTSE MAT (Stage 1) | Series Completion Test - Basic Concepts and Its Types ( 40 Solved Questions)",
+    "code":"47DAUl4XkFE"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/EObKtQDyscg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA7siqrECfIZdpsJa_1LZ2B2ast_A",
+    "desc":"NTSE MAT (Stage 1) | Series Completion Test - Daily Practice Questions (DPQ) Sheet 1 Solutions",
+    "code":"EObKtQDyscg"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/dkKWquq7Ps8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDPrxdR8XhyEFR_wWSlhZATVuESzA",
+    "desc":"NTSE MAT (Stage 1) | Series Completion - Daily Practice Question Sheet 2 Solutions",
+    "code":"dkKWquq7Ps8"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/d35pVGRg77k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBjolgo3LUkLTlfoVNVlAxolttFEA",
+    "desc":"NTSE MAT (Stage 1) | Puzzle Test - Concepts With Tips and Tricks (50 Solved Questions)",
+    "code":"d35pVGRg77k"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/oWSxT9udMZQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBdxGISVSH_YtDjqHeL_kafCAesbg",
+    "desc":"NTSE MAT (Stage 1) | Puzzle Test - Daily Practice Questions (DPQ) Sheet 1 Solutions",
+    "code":"oWSxT9udMZQ"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/huuYkxYGgjA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAedTXO5IyN0R7hcWotGBcMuWHlog",
+    "desc":"NTSE MAT (Stage 1) | Puzzle - Daily Practice Question Sheet 2 Solutions",
+    "code":"huuYkxYGgjA"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/3II_NKdvZVo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD2dkaxt-5gLgBhQ4COFSy_SuwRCw",
+    "desc":"NTSE MAT (Stage 1) | Blood Relations - Basic Concepts (35 Solved Questions)",
+    "code":"3II_NKdvZVo"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/rrt6COdhw2M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB8ReIQlECuxD1-dhwm8AGpP5Ompw",
+    "desc":"NTSE MAT (Stage 1) | Blood Relations - Daily Practice Questions (DPQ) Sheet 1 Solutions",
+    "code":"rrt6COdhw2M"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/wBGq3EeUS5s/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBWXgIE02bW821SyWzVncGSkfXJQA",
+    "desc":"NTSE MAT (Stage 1) | Blood Relations - Daily Practice Question Sheet 2 Solutions",
+    "code":"wBGq3EeUS5s"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/cUNHH8AVMoU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCOvODX7f83vufmf2tXUFx1scuaaQ",
+    "desc":"NTSE MAT (Stage 1) | Logical Sequence of words - Basic Concepts (30 Solved Questions)",
+    "code":"cUNHH8AVMoU"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/sPhSZ74pdHg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB8EucRLmdMm-z7_hPlsuelcLvCmw",
+    "desc":"NTSE MAT (Stage 1) | Logical Sequence of Words - Daily Practice Questions (DPQ) Sheet 1 Solutions",
+    "code":"sPhSZ74pdHg"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/Et9t6dgSGwk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDDB_qaHFKeB-I3-jhJk4NIIMZqlg",
+    "desc":"NTSE MAT (Stage 1) | Logical Sequence of Words - Daily Practice Question Sheet 2 Solutions",
+    "code":"Et9t6dgSGwk"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/izQjPrwK5UY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAWpJyZwqV0DXMnALmaEN9-7_zYqg",
+    "desc":"NTSE MAT (Stage 1) | Verification of Truth of the Statement - Basic Concepts (15 Solved Questions)",
+    "code":"izQjPrwK5UY"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/BZqo9tziidI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLARdrnKR7QJwnYlplLC_xWhgvJS1Q",
+    "desc":"NTSE MAT (Stage 1) | Verification of Truth of The Statement - DPQ Sheet 1 Solutions",
+    "code":"BZqo9tziidI"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/gOTU2lQEbBA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDXpv9bUloaotMYnjXR5JnXjs1ehw",
+    "desc":"NTSE MAT (Stage 1) | Situation Reaction Test - Basic Concepts (15 Solved Questions)",
+    "code":"gOTU2lQEbBA"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/7Yie36e0u6A/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD0nKYxMPdMcIrRfum8stIqGaOUhA",
+    "desc":"NTSE MAT (Stage 1) | Number Test - Basic Concepts (20 Solved Questions)",
+    "code":"7Yie36e0u6A"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/5FdEqWXip-w/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBrvUGKEuewMsZ8eraA6jfCzEghgw",
+    "desc":"NTSE MAT (Stage 1) | Number Test - Daily Practice Questions (DPQ) Sheet 1 Solutions",
+    "code":"5FdEqWXip-w"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/D6SwsJoxXg4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAq5op9h1sYsq40qsy4lTic-vlamg",
+    "desc":"NTSE MAT (Stage 1) | Ranking Test - Basic Concepts (10 Solved Questions)",
+    "code":"D6SwsJoxXg4"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/l0mA55RidZs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDunnRBazJwPe-HYL6_2nfJS0jSPg",
+    "desc":"NTSE MAT (Stage 1) | Ranking Test - Daily Practice Questions (DPQ) Sheet 1 Solutions",
+    "code":"l0mA55RidZs"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/2jBQGELmt1o/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA4Fl6MF0_xaUy-Juh0AgGT3icJUw",
+    "desc":"NTSE MAT (Stage 1) | Ranking Test - Daily Practice Question Sheet 2 Solutions",
+    "code":"2jBQGELmt1o"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/PlNxSbZn9VU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA1eYGM2T-kd6g5Q5z_PtpVBrhWSw",
+    "desc":"NTSE MAT (Stage 1) | Date Time Sequence Test - Basic Concepts (20 Solved Questions)",
+    "code":"PlNxSbZn9VU"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/o-hul-LyKuM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC76Kt6LD5U9Rs8dfJ33lMszTfRtg",
+    "desc":"NTSE MAT (Stage 1) | Date Time Sequence Test - Daily Practice Questions (DPQ) Sheet 1 Solutions",
+    "code":"o-hul-LyKuM"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/9FwhNiDaWG4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAHuLx2R1GbfzrC5eUa3BvvRJDadA",
+    "desc":"NTSE MAT (Stage 1) | Logical Reasoning: Syllogism - Basic Concepts (25 Solved Questions)",
+    "code":"9FwhNiDaWG4"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/rEY6jIYCKh8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD0Lvgm8p0BOZcP1lolhuA4qmE_Vg",
+    "desc":"NTSE MAT (Stage 1) | Syllogism - Daily Practice Questions (DPQ) Sheet 1 Solutions",
+    "code":"rEY6jIYCKh8"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/xFqkR8M8-jU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAHxkU6MmMy-9mFJI2h4LtNHnBd_A",
+    "desc":"NTSE MAT (Stage 1) | Syllogism - Daily Practice Question Sheet 2 Solutions",
+    "code":"xFqkR8M8-jU"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/Ly8JVM5Zjws/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAVyM6dic3RF3_Xy4S7Q1z-vEWREQ",
+    "desc":"NTSE MAT (Stage 1) | Inserting a Missing Character - Basic Concepts (20 Solved Questions)",
+    "code":"Ly8JVM5Zjws"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/yG_6LUYatXk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC4mHtOjXxGK0x_bqhY8W_B1pT3Vw",
+    "desc":"NTSE MAT (Stage 1)| Inserting the Missing Character-Daily Practice Questions (DPQ) Sheet 1 Solutions",
+    "code":"yG_6LUYatXk"
+  },
+  
+  
+  {
+    "link":"https://i.ytimg.com/vi/LI3CXkznrOQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBfq2LLBkzB9kWFl-0KbN4vxOzIvQ",
+    "desc":"Inserting the Missing Character - Daily Practice Question Sheet 2 Solutions | NTSE MAT (Stage 1)",
+    "code":"LI3CXkznrOQ"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/QghCRlWsKAg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCW1N3jHNzCMXLsJg63WxHsVE4fog",
+    "desc":"NTSE MAT (Stage 1) | Non Verbal Classification Test - Basic Concepts (25 Solved Questions)",
+    "code":"QghCRlWsKAg"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/3hXpz6NBJ24/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCzqTTdEH6SuhHuZyxyBwp4eAgklw",
+    "desc":"NTSE MAT (Stage 1)| Non Verbal Classification Test- Daily Practice Questions (DPQ) Sheet 1 Solutions",
+    "code":"3hXpz6NBJ24"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/S4bbC8h-8cE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAaTVIriSmFJJDXKR9M3JObNdC4Cw",
+    "desc":"Non-Verbal Classification - Daily Practice Questions Sheet 2 Solutions | NTSE MAT (Stage 1)",
+    "code":"S4bbC8h-8cE"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/CAjSMgD4SUc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBDqEGuk_5DtgWaFUF58fXIZXE2PA",
+    "desc":"NTSE MAT (Stage 1) | Non Verbal Series Test - Basic Concepts (25 Solved Questions)",
+    "code":"CAjSMgD4SUc"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/QwIsD9zz7L8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDmmXY_8TEoMZSoxUKEgCaRLmYiFQ",
+    "desc":"NTSE MAT (Stage 1) | Non Verbal Series Test - Daily Practice Questions (DPQ) Sheet 1 Solutions",
+    "code":"QwIsD9zz7L8"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/eqHaGSeBxHU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB8h6Dioh3lQQ7xvSBe1BGzyKH0zw",
+    "desc":"Non-Verbal Series Completion Test - Daily Practice Question Sheet 2 Solutions | NTSE MAT (Stage 1)",
+    "code":"eqHaGSeBxHU"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/PRPrEgI7kWM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAgmPuaMU1rmVr6LSq03uhsMrYSNw",
+    "desc":"NTSE MAT (Stage 1) | Non Verbal Analogy Test - Basic Concepts (25 Solved Questions)",
+    "code":"PRPrEgI7kWM"
+  },
+  
+  
+  {
+    "link":"https://i.ytimg.com/vi/1h4j2rIX2tY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLADH6Ye0TKoaxfUUBEu2_C-x7ILdQ",
+    "desc":"NTSE MAT (Stage 1) | Non Verbal Analogy Test - Daily Practice Questions (DPQ) Sheet 1 Solutions",
+    "code":"1h4j2rIX2tY"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/oquXI-jUBpE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAw9Onxl8xoUrnh4o6fhz9G0UQeTg",
+    "desc":"Non-Verbal Analogy - Daily Practice Questions Sheet 2 Solutions | NTSE MAT (Stage 1)",
+    "code":"oquXI-jUBpE"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/k7FnqKNFZ3M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBexkE0x5cQUqZj2_9tQHNpzoiXBA",
+    "desc":"NTSE MAT (Stage 1) | Matrix Test - Basic Concepts (20 Solved Questions)",
+    "code":"k7FnqKNFZ3M"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/ERYX6TBRuMc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDMFRZgzalmWQEb6PoD9Jo9kdwxqg",
+    "desc":"NTSE MAT (Stage 1) | Matrix Test - Daily Practice Questions (DPQ) Sheet 1 Solutions",
+    "code":"ERYX6TBRuMc"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/If7vIG_XzbU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCxDloa6lRKfjA9PXFJoh1MhNdp2A",
+    "desc":"Non-Verbal Matrix - Daily Practice Questions Sheet 2 Solutions | NTSE MAT (Stage 1)",
+    "code":"If7vIG_XzbU"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/ua_7IDMcv84/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBAIutecpw0p0LjJK37LP48J_NMsw",
+    "desc":"NTSE MAT (Stage 1) | Completion of Figures - Basic Concepts (20 Solved Questions)",
+    "code":"ua_7IDMcv84"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/AQ0rWHrSX3E/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDkvvE1KwGLXr-kJR5MzJKmAZVagw",
+    "desc":"NTSE MAT (Stage 1) | Completion of Figures - Daily Practice Questions (DPQ) Sheet 1 Solutions",
+    "code":"AQ0rWHrSX3E"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/YsvaFNQx6Ek/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCxfoiWm4L9Q90REzFvtWlaU5SbEw",
+    "desc":"Completion of Figures - Daily Practice Questions Sheet 2 Solution | NTSE MAT (Stage 1)",
+    "code":"YsvaFNQx6Ek"
+  },
+  
+  
+  {
+    "link":"https://i.ytimg.com/vi/Axk6EKgw3bQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDypvqbRUiGr9JxW0-XxQy1cPRtNQ",
+    "desc":"NTSE MAT (Stage 1) | Spotting Out the Embedded Figure - Basic Concepts (15 Solved Questions)",
+    "code":"Axk6EKgw3bQ"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/9-VpuB7Qn64/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCqU5aXSw2vT9ITexk3Qw6ObCXn0Q",
+    "desc":"NTSE MAT (Stage 1)|Spotting Out the Embedded Figure-Daily Practice Questions (DPQ) Sheet 1 Solutions",
+    "code":"9-VpuB7Qn64"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/P2xZt6ZMhTI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAmIZy__np8dUH1DAED0l4hpu3yQw",
+    "desc":"Spotting Out the Embedded Figures - Daily Practice Questions Sheet 2 Solution | NTSE MAT (Stage 1)",
+    "code":"P2xZt6ZMhTI"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/PYzm0js9PcA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCzaZ19r1Ln3oukFW3h9QcleHEluw",
+    "desc":"NTSE MAT (Stage 1) | Paper Folding - Basic Concepts (20 Solved Questions)",
+    "code":"PYzm0js9PcA"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/6OfCHRdpP9g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDnwQ1RRbhHnqQe6hhWeqDphrUQBA",
+    "desc":"NTSE MAT (Stage 1) | Paper Folding - Daily Practice Questions Sheet 1 Solutions",
+    "code":"6OfCHRdpP9g"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/yRLEK9Er3hw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBOY2LFXUkEY8W3RhCCodGcyKKCQg",
+    "desc":"Paper Folding - Daily Practice Questions Sheet 2 Solutions | NTSE MAT (Stage 1)",
+    "code":"yRLEK9Er3hw"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/amodyl1xkZ4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB33f1mooaAq-bEpwp36OBI2DN3Mw",
+    "desc":"NTSE MAT (Stage 1) | Paper Cutting - Basic Concepts (20 Solved Questions)",
+    "code":"amodyl1xkZ4"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/0vj_0m3jFGg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCqUOP2JwvBA7hsYwEXM3QjogNa6g",
+    "desc":"NTSE MAT (Stage 1) | Paper Cutting - Daily Practice Questions (DPQ) Sheet 1 Solutions",
+    "code":"0vj_0m3jFGg"
+  },
+  
+  
+  {
+    "link":"https://i.ytimg.com/vi/4IHmAo-WrEU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAA2L8Baj6GkrHxgBSKctcCS6r3Zw",
+    "desc":"Paper Cutting - Daily Practice Questions Sheet 2 Solutions | NTSE MAT (Stage 1)",
+    "code":"4IHmAo-WrEU"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/wWqUjsQ4ThA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAj-AjnqGO46PN3RC5EaucoA9qVWA",
+    "desc":"NTSE MAT (Stage 1) | Formation of Figures - Basic Concepts (15 Solved Questions)",
+    "code":"wWqUjsQ4ThA"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/dkJf8eDkYk8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDKAF4iCPxl6ZzSeFaLtJFsT0Ryuw",
+    "desc":"NTSE MAT (Stage 1) | Formation of Figures - Daily Practice Questions (DPQ) Sheet 1 Solutions",
+    "code":"dkJf8eDkYk8"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/fDqDRcYXTRI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCi_4oJfAhS73KFOSz5MrbJsXSdzw",
+    "desc":"NTSE MAT (Stage 1) | Mirror and Water Images - Basic Concepts (25 Solved Questions)",
+    "code":"fDqDRcYXTRI"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/KM1faNdM6h0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCBKdXyL6NDQdbF9dZ1NMFNq1ERUA",
+    "desc":"NTSE MAT (Stage 1) | Mirror and Water Images - Daily Practice Questions (DPQ) Sheet 1 Solutions",
+    "code":"KM1faNdM6h0"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/SCKvoTCHy_g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLArX3hz0iymMbTuks1rRApSfKWotg",
+    "desc":"Mirror and Water Image - Daily Practice Questions Sheet 2 Solutions | NTSE MAT (Stage 1)",
+    "code":"SCKvoTCHy_g"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/fHl9GJaZe3M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDbKy5DlNQJS7AFGkAnFHdF3MVFdg",
+    "desc":"NTSE MAT (Stage 1) | Dots Situation - Basic Concept (15 Solved Questions)",
+    "code":"fHl9GJaZe3M"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/X9Kwq6DD4gA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCVNoPxc0fQivEBXE7qc3KReiMkEQ",
+    "desc":"NTSE MAT (Stage 1) | Dots Situation - Daily Practice Questions Sheet 1 Solutions",
+    "code":"X9Kwq6DD4gA"
+  },
+  
+  
+  {
+    "link":"https://i.ytimg.com/vi/PibUrvq1u5Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA0I38vT6a5uOdmmflw8nnn-poWFQ",
+    "desc":"Dots Situation - Daily Practice Questions Sheet 2 Solution | NTSE MAT (Stage 1)",
+    "code":"PibUrvq1u5Q"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/KwZlNMFS2p0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBsqfSp2_-GHzPveMp6eZY_T6zjyg",
+    "desc":"NTSE MAT (Stage 1) | Grouping of Identical Figures - Basic Concepts (15 Solved Questions)",
+    "code":"KwZlNMFS2p0"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/l02pRSyM0L4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDpVRkxBOvIJAqHwmO_WDeJEGqT5A",
+    "desc":"NTSE MAT (Stage 1) | Grouping of Identical Figures - Daily Practice Questions (DPQ) Sheet 1 Solution",
+    "code":"l02pRSyM0L4"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/BJjFdGLC4is/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA8cnwnOF_w1YnTI7TgJNTmRKZcdA",
+    "desc":"NTSE MAT (Stage 1) | Cubes and Dice - Basic Concepts and Examples",
+    "code":"BJjFdGLC4is"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/hF1iuE_kpFg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAu5WT6auBjURxfIMDFqfKvwgjvVg",
+    "desc":"NTSE MAT (Stage 1) | Cubes and Dice - Daily Practice Question Sheet 1 Solution",
+    "code":"hF1iuE_kpFg"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/xcKiO6ue_44/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAF2jLVqMxsRxDfXfzlTrWhPXSqRA",
+    "desc":"NTSE MAT (Stage 1) | Alphabet Test - Daily Practice Question Sheet 2 Solutions",
+    "code":"xcKiO6ue_44"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/mJff9lJ1two/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBS6t_bYQBUBhVk4wLbw1K6152pMA",
+    "desc":"NTSE MAT (Stage 1) | Useful Tricks to Solve Powers and Exponents",
+    "code":"mJff9lJ1two"
+  },
+  
+  {
+    "link":"https://i.ytimg.com/vi/ukOyGTLMLJ0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCSthoMFmJ2bP2XO1P9PRQS7TAmBw",
+    "desc":"NTSE MAT (Stage 1) | Tricks to Find Square and Square Roots of Any Number",
+    "code":"ukOyGTLMLJ0"
+  },
+  
+  
+  {
+    "link":"https://i.ytimg.com/vi/nmzVAyBF7TA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAbOsSbZ41hLRouwm8xR7NugBLzSg",
+    "desc":"NTSE MAT (Stage 1) | Tricks to Find Cube and Cube Roots of Any Number",
+    "code":"nmzVAyBF7TA"
   }
 ]
