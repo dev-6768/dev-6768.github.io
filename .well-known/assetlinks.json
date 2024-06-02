@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.assignment_zarity_health",
+      "sha256_cert_fingerprints":
+      ["A0:AF:5E:35:59:37:AA:AD:64:03:42:07:AF:F8:69:A4:23:A3:06:AF:A1:11:55:BD:7A:91:1B:9B:8B:00:15:CF"]
+    }
+}]
