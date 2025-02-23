@@ -1,0 +1,80 @@
+Privacy Policy
+Last Updated: 23rd of February 2025.
+
+Welcome to PDFly ("we," "our," or "us"). This Privacy Policy explains how your data is handled when you use our app. We are committed to protecting your privacy and ensuring that all data remains securely stored on your device.
+
+1. Introduction
+PDFly is a PDF-to-audio file converter that allows users to:
+
+Extract text from PDF files.
+Convert extracted text into an audio file.
+Store the generated files locally on their device using HiveDB.
+Share the audio files with their contacts at their discretion.
+We do not collect, store, or share any personal data with third parties.
+
+2. Information We Do Not Collect
+We respect your privacy. Our app does not collect:
+
+Personal information (e.g., name, email, phone number).
+Uploaded PDF files.
+Extracted text.
+Generated audio files.
+Device identifiers or location data.
+All data is processed and stored locally on your device using HiveDB, and we do not have access to it.
+
+3. How Your Data is Used
+Your data is used only within the app for the following purposes:
+
+Extracting text from PDF files.
+Converting extracted text into an audio file.
+Saving the generated text and audio files on your device.
+The app operates entirely offline, and no data is transmitted to external servers.
+
+4. Data Storage and Security
+We ensure your data stays private and secure by following these practices:
+
+✅ Local Storage:
+
+All PDF files, extracted text, and generated audio files are stored locally on your device using HiveDB.
+Data does not leave your device unless you choose to share it.
+✅ User Control:
+
+You can delete, modify, or share your stored files anytime.
+The app does not access or retrieve any data without your direct action.
+✅ No Cloud Storage or External Servers:
+
+We do not upload, sync, or back up any user data to external servers.
+5. Data Sharing & User Control
+The app allows users to share the generated audio files with their contacts.
+
+🔹 Your Choice: Sharing is completely optional and at the user’s discretion.
+🔹 How Sharing Works: If you choose to share an audio file, it is sent via your selected sharing method (e.g., messaging apps, email, etc.).
+🔹 No Tracking: We do not track or monitor any files you share.
+
+6. Third-Party Services
+This app does not use third-party services for:
+❌ Analytics (e.g., Google Analytics, Firebase Analytics)
+❌ Advertising (e.g., Google Ads, Facebook Ads)
+❌ Data collection or tracking
+
+You can use the app offline without any network connection.
+
+7. Your Rights & Choices
+As a user, you have the following rights:
+
+Full Control Over Your Data: You can delete, modify, or share your data at any time.
+No Account Required: The app does not require a login, ensuring no personal data is stored.
+No Permissions Beyond Necessary: The app only requests storage permissions to save and access your files.
+8. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be:
+
+Communicated in the app.
+Updated on our website (if applicable).
+If there are any major changes, we will notify users before the update takes effect.
+
+9. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+📧 sanidhyasoft@gmail.com
+🌐 https://portfolio-f4d80.web.app/
+
