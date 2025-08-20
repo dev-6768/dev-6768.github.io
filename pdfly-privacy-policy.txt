@@ -86,5 +86,20 @@ Privacy Made Simple 🛡️
 -> You control your files: delete, edit, or share anytime.
 -> No accounts, no tracking, no hidden services (Apart from Google Admob, which is our advertising partner).
 
+
+Acknowledgement
+
+We, the team behind PDFly, extend our sincere gratitude to everyone who has contributed to the successful creation and launch of this application. As a small student team from India, our vision has always been to make reading and learning more accessible for all. This app represents not only our passion but also our dedication to this mission.
+
+First and foremost, we would like to thank our users. Your trust, encouragement, and feedback are invaluable to us. Every suggestion and response is treated as a guiding step toward continuous improvement, and we are committed to placing customer service at the heart of our journey.
+
+We also extend our deepest appreciation to our peers, mentors, and subject-matter experts who have provided constant guidance and insights. Their support has been instrumental in refining our ideas into a practical and impactful solution.
+
+We are equally grateful to our financers for believing in our vision and providing us with the resources to turn our concept into reality. Their support laid the foundation for this project.
+
+Lastly, we express heartfelt gratitude to our families for their unwavering support, patience, and encouragement throughout this journey. Their belief in us has been the driving force behind our determination to succeed.
+
+With the collective support of all these individuals and communities, PDFly has been made possible. We remain dedicated to our mission and look forward to growing with the continued trust of our users.
+
 Thanks and enjoy using our app,
 Team San_Soft.
