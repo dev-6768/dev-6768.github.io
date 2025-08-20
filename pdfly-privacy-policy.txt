@@ -1,5 +1,5 @@
 Privacy Policy
-Last Updated: 23rd of February 2025.
+Last Updated: 21st of August 2025, 00:45.
 
 Welcome to PDFly ("we," "our," or "us"). This Privacy Policy explains how your data is handled when you use our app. We are committed to protecting your privacy and ensuring that all data remains securely stored on your device.
 
@@ -54,7 +54,6 @@ The app allows users to share the generated audio files with their contacts.
 6. Third-Party Services
 This app does not use third-party services for:
 ❌ Analytics (e.g., Google Analytics, Firebase Analytics)
-❌ Advertising (e.g., Google Ads, Facebook Ads)
 ❌ Data collection or tracking
 
 You can use the app offline without any network connection.
@@ -65,6 +64,7 @@ As a user, you have the following rights:
 Full Control Over Your Data: You can delete, modify, or share your data at any time.
 No Account Required: The app does not require a login, ensuring no personal data is stored.
 No Permissions Beyond Necessary: The app only requests storage permissions to save and access your files.
+
 8. Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. Any changes will be:
 
@@ -78,3 +78,13 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 📧 sanidhyasoft@gmail.com
 🌐 https://portfolio-f4d80.web.app/
 
+Also, if you need a simple summary:
+Privacy Made Simple 🛡️
+-> Your PDFs, text, and audio files stay on your device.
+-> We don’t collect or share any personal data.
+-> Works fully offline — no internet needed.
+-> You control your files: delete, edit, or share anytime.
+-> No accounts, no tracking, no hidden services (Apart from Google Admob, which is our advertising partner).
+
+Thanks and enjoy using our app,
+Team San_Soft.
