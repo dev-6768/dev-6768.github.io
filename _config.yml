@@ -1,1 +1,1 @@
-include: [".well-known", "models"]
+include: [".well-known", "models", "models/license"]
