@@ -4,6 +4,7 @@
         "name": "Amy",
         "downloadUrl": "https://huggingface.co/sansoft2402/piper-tts-voices-pdfly/resolve/main/en_US-amy-medium.onnx?download=true",
         "licenseUrl": "https://dev-6768.github.io/models/license/amy_voice_model_license.txt",
+        "sampleUrl": "https://dev-6768.github.io/samples/voice_samples/amy_voice_sample.mp3",
         "description": "US English Speaker Amy.",
         "createDate": "28-10-2025",
         "size": "61,721 KB"
@@ -14,6 +15,7 @@
         "name": "John",
         "downloadUrl": "https://huggingface.co/sansoft2402/piper-tts-voices-pdfly/resolve/main/en_US-john-medium.onnx?download=true",
         "licenseUrl": "https://dev-6768.github.io/models/license/john_voice_model_license.txt",
+        "sampleUrl": "https://dev-6768.github.io/samples/voice_samples/john_voice_sample.mp3",
         "description": "US English Speaker John.",
         "createDate": "28-10-2025",
         "size": "62,043 KB"
@@ -24,6 +26,7 @@
         "name": "Kristin",
         "downloadUrl": "https://huggingface.co/sansoft2402/piper-tts-voices-pdfly/resolve/main/en_US-kristin-medium.onnx?download=true",
         "licenseUrl": "https://dev-6768.github.io/models/license/kristin_voice_model_license.txt",
+        "sampleUrl": "https://dev-6768.github.io/samples/voice_samples/kristin_voice_sample.mp3",
         "description": "US English Speaker Kristin.",
         "createDate": "28-10-2025",
         "size": "62,043 KB"
@@ -34,6 +37,7 @@
         "name": "Norman",
         "downloadUrl": "https://huggingface.co/sansoft2402/piper-tts-voices-pdfly/resolve/main/en_US-norman-medium.onnx?download=true",
         "licenseUrl": "https://dev-6768.github.io/models/license/norman_voice_model_license.txt",
+        "sampleUrl": "https://dev-6768.github.io/samples/voice_samples/norman_voice_sample.mp3",
         "description": "US English Speaker Norman.",
         "createDate": "28-10-2025",
         "size": "62,043 KB"
@@ -44,6 +48,7 @@
         "name": "Rohan",
         "downloadUrl": "https://huggingface.co/sansoft2402/piper-tts-voices-pdfly/resolve/main/hi_IN-rohan-medium.onnx?download=true",
         "licenseUrl": "https://dev-6768.github.io/models/license/rohan_voice_model_license.txt",
+        "sampleUrl": "https://dev-6768.github.io/samples/voice_samples/rohan_voice_sample.mp3",
         "description": "Indian Hindi Speaker Rohan.",
         "createDate": "28-10-2025",
         "size": "61,475 KB"
