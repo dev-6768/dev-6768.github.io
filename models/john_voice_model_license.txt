@@ -1,0 +1,8 @@
+Special thanks to Piper and Open Home Foundation for allowing us to use their models
+https://rhasspy.github.io/piper-samples/
+
+Terms of License start below.
+
+==================================================================================
+License: public domain
+==================================================================================
