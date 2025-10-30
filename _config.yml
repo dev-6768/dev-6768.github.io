@@ -1,1 +1,1 @@
-include: [".well-known", "models", "models/license", "samples", "samples/voice_samples"]
+include: [".well-known", "models", "models/license", "models/model_json_files", "samples", "samples/voice_samples"]
